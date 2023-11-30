@@ -44,16 +44,16 @@ class Deck:
             result += "### {}. Card\n".format(counter)
             counter += 1
             result += "\n"
+            if card.base64_encoded_image is not None:
+                imageStringMd = '<p><img src="data:image/jpeg;base64,' + \
+                    card.base64_encoded_image + '"></p>'
+                result += "{}".format(imageStringMd)
+
             result += "|Attribut|Value|\n"
             result += "|---|---|\n"
             result += "|Id|{}|\n".format(card.id)
             result += "|Question|{}|\n".format(
                 card.question.replace("\n", "\t"))
-
-            if card.base64_encoded_image is not None:
-                imageStringMd = '<p><img src="data:image/jpeg;base64,' + \
-                    card.base64_encoded_image + '"></p>'
-                result += "|Image|{}|\n".format(imageStringMd)
 
             if card.is_open_question == True:
                 result += "|Answer|{}|\n".format(
