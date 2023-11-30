@@ -44,7 +44,7 @@ jobs:
           git status
           git config --global user.name '3DExtended'
           git config --global user.email '3dextended@users.noreply.github.com'
-          output=$(git diff --stat head^1 -- ./de_DE/categories/freizeit/sks/sks-deck.md) && if [[ "${output}" == *"changed"* ]] ;then 
+          output=$(git status ./de_DE/categories/freizeit/sks/sks-deck.md) && if [[ "${output}" == *"modified:"* ]] ;then 
             echo "pushing changes"; 
             git checkout -b feauture/update-sks-deck
             git commit -am "Automated update for SKS file";
