@@ -1,0 +1,56 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Python application
+
+# on:
+#  push:
+#    if: inside_open_pr
+#  pull_request:
+#    branches: [ "main" ]
+
+on: 
+  schedule:
+    # Daily at 8:20 UTC
+    - cron: '20 2 * * *'
+
+permissions:
+  contents: write
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: main
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Update SKS
+        run: |
+          python scripts/sks-deck-auto-update.py
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Commit SKS Deck
+        # git diff --stat head^1 -- ./de_DE/categories/freizeit/sks/sks-deck.md
+        run: |
+          git status
+          git config --global user.name '3DExtended'
+          git config --global user.email '3dextended@users.noreply.github.com'
+          output=$(git diff --stat head^1 -- ./de_DE/categories/freizeit/sks/sks-deck.md) && if [[ "${output}" == *"changed"* ]] ;then 
+            echo "pushing changes"; 
+            git checkout -b feauture/update-sks-deck
+            git commit -am "Automated update for SKS file";
+            git push --set-upstream origin feauture/update-sks-deck;
+          else 
+            echo "found no changes"; 
+          fi;
+      - name: create pull request
+        run: gh pr create -B main -H feauture/update-sks-deck --title 'Update SKS' --body 'Created by Github action'
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
