@@ -40,16 +40,18 @@ class Deck:
         result += "\n"
 
         counter = 1
+        image_counter = 1
         for card in self.cards:
             result += "### {}. Card\n".format(counter)
             counter += 1
             result += "\n"
             if card.base64_encoded_image is not None:
-                imageStringMd = '<img src="data:image/jpeg;base64,' + \
-                    card.base64_encoded_image + '" />'
+                imageStringMd = '![image{}](data:image/jpeg;base64,'.format(image_counter) + \
+                    card.base64_encoded_image + ')'
                 result += "{}".format(imageStringMd)
                 result += "\n"
                 result += "\n"
+                image_counter += 1
 
             result += "|Attribut|Value|\n"
             result += "|---|---|\n"
