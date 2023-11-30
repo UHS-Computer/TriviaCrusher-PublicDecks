@@ -12,11 +12,12 @@ from PIL import Image
 from PIL import GifImagePlugin
 
 path_to_tcjson_file = "./de_DE/categories/freizeit/sks/sks-deck.tcjson"
+path_to_md_file = "./de_DE/categories/freizeit/sks/sks-deck.md"
 
 # the deck SKS consists of of 5 parts which are combined into one big deck here!
 urls_to_scan = [
-    "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Schifffahrtsrecht-node.html",
     "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Navigation/Navigation-node.html",
+    "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Schifffahrtsrecht-node.html",
     "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Wetterkunde/Wetterkunde-node.html",
     "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Seemannschaft-I-node.html",
     "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Seemannschaft-II-node.html",
@@ -81,6 +82,7 @@ def download_image(url, file_path, file_name):
 result = Deck(
     id=uuid.UUID('8f2274f7-889b-4874-aac7-92a6dc0ef16d'),
     name="SKS - Sportküstenschifferschein Theorie Fragen",
+    description="Dies sind die Lernzettel für den SKS - Sportküstenschifferschein.\nHierzu wurden die offiziellen Prüfungsfragen von <https://www.elwis.de/> in Karteikarten übersetzt.\n\n\nStand des Exports ist: ",
     icon=Icon(
         font_family="MaterialIcons",
         code_point=58701,
@@ -91,6 +93,7 @@ result = Deck(
     cards=[]
 )
 
+foundStand = False
 
 for url in urls_to_scan:
     resp = urllib3.request("GET", url)
@@ -153,6 +156,10 @@ for url in urls_to_scan:
         if "Stand: " in paragraph.get_text():
             i += 1
             notation_counter = 0
+
+            if foundStand == False:
+                result.description += paragraph.get_text()
+                foundStand = True
             continue
 
         # Either we read a question or an answer...
@@ -227,4 +234,8 @@ for url in urls_to_scan:
 
 f = open(path_to_tcjson_file, 'w')
 f.write(json.dumps(result, indent=2))
+f.close()
+
+f = open(path_to_md_file, 'w')
+f.write(result.__markdown__())
 f.close()
