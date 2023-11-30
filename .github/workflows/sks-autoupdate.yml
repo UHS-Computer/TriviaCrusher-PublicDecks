@@ -37,6 +37,7 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Commit SKS Deck
+        id: step1
         # git diff --stat head^1 -- ./de_DE/categories/freizeit/sks/sks-deck.md
         run: |
           git status
@@ -49,12 +50,12 @@ jobs:
 
           output=$(git status ./de_DE/categories/freizeit/sks/sks-deck.md) && if [[ "${output}" == *"modified:"* ]] ;then 
             echo "pushing changes"; 
+            echo "test=hello" >> "$GITHUB_OUTPUT"
             git commit -am "Automated update for SKS file";
             git push --set-upstream origin feauture/update-sks-deck;
+            gh pr create -B main -H feauture/update-sks-deck --title 'Update SKS' --body 'Created by Github action'
           else 
             echo "found no changes"; 
           fi;
-      - name: create pull request
-        run: gh pr create -B main -H feauture/update-sks-deck --title 'Update SKS' --body 'Created by Github action'
         env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
