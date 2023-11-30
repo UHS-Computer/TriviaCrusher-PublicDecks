@@ -43,7 +43,7 @@ jobs:
           git config pull.rebase false
           git config --global user.name '3DExtended'
           git config --global user.email '3dextended@users.noreply.github.com'
-          git checkout -b feauture/update-sks-deck origin/feauture/update-sks-deck
+          git switch feauture/update-sks-deck
 
           python scripts/sks-deck-auto-update.py
 
