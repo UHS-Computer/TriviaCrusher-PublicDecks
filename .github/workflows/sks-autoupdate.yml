@@ -12,7 +12,7 @@ name: Python application
 on: 
   schedule:
     # Daily at 8:20 UTC
-    - cron: '20 2 * * *'
+    - cron: '20 21 * * *'
 
 permissions:
   contents: write
