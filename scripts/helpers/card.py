@@ -26,7 +26,7 @@ class Card:
                  ) -> None:
         # Hash question and answers to generate id
         md5 = hashlib.md5(tuple([tuple([a.strip() for a in answers]),
-                                question, base64_encoded_image, is_open_question]).__str__().encode()).hexdigest()  # returns a str
+                                question, is_open_question]).__str__().encode()).hexdigest()  # returns a str
 
         self.id = md5
         self.phase = phase
