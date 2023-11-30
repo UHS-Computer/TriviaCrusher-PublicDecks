@@ -36,10 +36,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      - name: Update SKS
-        run: |
-          python scripts/sks-deck-auto-update.py
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Commit SKS Deck
         # git diff --stat head^1 -- ./de_DE/categories/freizeit/sks/sks-deck.md
         run: |
@@ -47,11 +43,14 @@ jobs:
           git config pull.rebase false
           git config --global user.name '3DExtended'
           git config --global user.email '3dextended@users.noreply.github.com'
+          git checkout -B feauture/update-sks-deck
+          git branch --set-upstream-to=origin/feauture/update-sks-deck feauture/update-sks-deck
+          git pull -s recursive -X ours
+
+          python scripts/sks-deck-auto-update.py
+
           output=$(git status ./de_DE/categories/freizeit/sks/sks-deck.md) && if [[ "${output}" == *"modified:"* ]] ;then 
             echo "pushing changes"; 
-            git checkout -B feauture/update-sks-deck
-            git branch --set-upstream-to=origin/feauture/update-sks-deck feauture/update-sks-deck
-            git pull -s recursive -X ours
             git commit -am "Automated update for SKS file";
             git push --set-upstream origin feauture/update-sks-deck;
           else 
