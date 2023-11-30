@@ -5,18 +5,18 @@ import json_fix
 
 
 class Icon:
-    font_family: str | None
-    code_point: int
-    font_family_fallback: str | None
-    font_package: str | None
-    match_text_direction: bool | None
+    fontFamily: str | None
+    codePoint: int
+    fontFamilyFallback: str | None
+    fontPackage: str | None
+    matchTextDirection: bool | None
 
     def __json__(self):
         return self.__dict__
 
     def __init__(self, font_family: str | None, code_point: int, font_family_fallback: str | None, font_package: str | None, match_text_direction: bool | None) -> None:
-        self.font_family = font_family
-        self.code_point = code_point
-        self.font_family_fallback = font_family_fallback
-        self.font_package = font_package
-        self.match_text_direction = match_text_direction
+        self.fontFamily = font_family
+        self.codePoint = code_point
+        self.fontFamilyFallback = font_family_fallback
+        self.fontPackage = font_package
+        self.matchTextDirection = match_text_direction

@@ -11,29 +11,29 @@ class Card:
     phase: int | None
     question: str
     answers: [str]
-    is_open_question: bool
-    base64_encoded_image: str | None
-    correctly_answered_counter: int | None
-    total_answered_counter: int | None
-    due_after_date: datetime | None
+    isOpenQuestion: bool
+    base64EncodedImage: str | None
+    correctlyAnsweredCounter: int | None
+    totalAnsweredCounter: int | None
+    dueAfterDate: datetime | None
 
     def __json__(self):
         result = self.__dict__
         return result
 
-    def __init__(self, question: str, answers: List[str], is_open_question: bool, phase: int | None = None,  base64_encoded_image: str | None = None, correctly_answered_counter: int | None = None, total_answered_counter: int | None = None,
+    def __init__(self, question: str, answers: List[str], isOpenQuestion: bool, phase: int | None = None,  base64EncodedImage: str | None = None, correctly_answered_counter: int | None = None, total_answered_counter: int | None = None,
                  due_after_date: datetime | None = None
                  ) -> None:
         # Hash question and answers to generate id
         md5 = hashlib.md5(tuple([tuple([a.strip() for a in answers]),
-                                question, is_open_question]).__str__().encode()).hexdigest()  # returns a str
+                                question, isOpenQuestion]).__str__().encode()).hexdigest()  # returns a str
 
         self.id = md5
         self.phase = phase
         self.question = question.strip()
         self.answers = [a.strip() for a in answers]
-        self.is_open_question = is_open_question
-        self.base64_encoded_image = base64_encoded_image
-        self.correctly_answered_counter = correctly_answered_counter
-        self.total_answered_counter = total_answered_counter
-        self.due_after_date = due_after_date
+        self.isOpenQuestion = isOpenQuestion
+        self.base64EncodedImage = base64EncodedImage
+        self.correctlyAnsweredCounter = correctly_answered_counter
+        self.totalAnsweredCounter = total_answered_counter
+        self.dueAfterDate = due_after_date

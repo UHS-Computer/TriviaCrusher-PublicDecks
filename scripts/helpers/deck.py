@@ -54,17 +54,17 @@ class Deck:
             result += "|Question|{}|\n".format(
                 card.question.replace("\n", "\t"))
 
-            if card.base64_encoded_image is not None:
+            if card.base64EncodedImage is not None:
                 # ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
                 # imageStringMd = '<img src="data:image/jpeg;base64,' + \
-                #     card.base64_encoded_image + '" />'
+                #     card.base64EncodedImage + '" />'
                 fileName = 'test{}.jpeg'.format(imageCounter)
                 imageStringMd = '![Question Image {}]({})'.format(
                     imageCounter, "./images/" + fileName)
                 imageCounter += 1
                 result += "|Image|{}|\n".format(imageStringMd)
 
-                image = base64.b64decode(str(card.base64_encoded_image))
+                image = base64.b64decode(str(card.base64EncodedImage))
                 imagePathAndFilename = (imagePath + "/" + fileName)
                 isExist = os.path.exists(imagePath)
                 if not isExist:
@@ -74,7 +74,7 @@ class Deck:
                 img = Image.open(io.BytesIO(image))
                 img.save(imagePathAndFilename, 'jpeg')
 
-            if card.is_open_question == True:
+            if card.isOpenQuestion == True:
                 result += "|Answer|{}|\n".format(
                     card.answers[0].replace("\n", "\t"))
             else:
@@ -96,6 +96,6 @@ class Deck:
 
         return result
 
-    def addOpenQuestion(self, question: str, answer: str, base64_encoded_image: str | None = None) -> None:
+    def addOpenQuestion(self, question: str, answer: str, base64EncodedImage: str | None = None) -> None:
         self.cards.append(Card(answers=[
-                          answer], question=question, is_open_question=True, base64_encoded_image=base64_encoded_image))
+                          answer], question=question, isOpenQuestion=True, base64EncodedImage=base64EncodedImage))
