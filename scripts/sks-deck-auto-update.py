@@ -124,7 +124,7 @@ for url in urls_to_scan:
             # complete card
             if current_answer is not None and current_question is not None:
                 result.addOpenQuestion(
-                    current_question, current_answer, uuid.uuid4(), current_base64_image_str)
+                    current_question, current_answer, current_base64_image_str)
                 print("Question: ")
                 print(current_question)
                 print("Answer: ")
@@ -226,5 +226,5 @@ for url in urls_to_scan:
         i += 1
 
 f = open(path_to_tcjson_file, 'w')
-f.write(json.dumps(result))
+f.write(json.dumps(result, indent=2))
 f.close()

@@ -23,6 +23,6 @@ class Deck:
         self.icon = icon
         self.cards = cards
 
-    def addOpenQuestion(self, question: str, answer: str, id: UUID, base64_encoded_image: str | None = None) -> None:
-        self.cards.append(Card(id=id.__str__(), answers=[
+    def addOpenQuestion(self, question: str, answer: str, base64_encoded_image: str | None = None) -> None:
+        self.cards.append(Card(answers=[
                           answer], question=question, is_open_question=True, base64_encoded_image=base64_encoded_image))
