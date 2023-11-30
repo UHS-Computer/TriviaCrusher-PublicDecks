@@ -10,6 +10,7 @@ name: Python application
 #    branches: [ "main" ]
 
 on: 
+  workflow_dispatch:
   schedule:
     # Daily at 8:20 UTC
     - cron: '20 21 * * *'
