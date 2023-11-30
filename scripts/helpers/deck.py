@@ -51,7 +51,7 @@ class Deck:
                 card.question.replace("\n", "\t"))
 
             if card.base64_encoded_image is not None:
-                imageStringMd = '<p><img src="data:image/jpg;base64,' + \
+                imageStringMd = '<p><img src="data:image/jpeg;base64,' + \
                     card.base64_encoded_image + '"></p>'
                 result += "|Image|{}|\n".format(imageStringMd)
 
