@@ -13,6 +13,7 @@ from PIL import GifImagePlugin
 
 path_to_tcjson_file = "./de_DE/categories/freizeit/sks/sks-deck.tcjson"
 path_to_md_file = "./de_DE/categories/freizeit/sks/sks-deck.md"
+path_for_images = "./de_DE/categories/freizeit/sks/images"
 
 # the deck SKS consists of of 5 parts which are combined into one big deck here!
 urls_to_scan = [
@@ -237,5 +238,5 @@ f.write(json.dumps(result, indent=2))
 f.close()
 
 f = open(path_to_md_file, 'w')
-f.write(result.__markdown__())
+f.write(result.__markdown__(path_for_images))
 f.close()

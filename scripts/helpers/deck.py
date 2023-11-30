@@ -2,9 +2,12 @@ from uuid import UUID
 from typing import List
 from datetime import datetime
 from helpers.card import Card
-
+import base64
+from PIL import Image
+import os
 from helpers.icon import Icon
 import json_fix
+import io
 
 
 class Deck:
@@ -25,7 +28,7 @@ class Deck:
         self.cards = cards
         self.description = description
 
-    def __markdown__(self) -> str:
+    def __markdown__(self, imagePath: str) -> str:
         result = ""
 
         result += "# " + self.name + "\n"
@@ -40,24 +43,36 @@ class Deck:
         result += "\n"
 
         counter = 1
-        image_counter = 1
+        imageCounter = 1
         for card in self.cards:
             result += "### {}. Card\n".format(counter)
             counter += 1
             result += "\n"
-            if card.base64_encoded_image is not None:
-                imageStringMd = '![image{}](data:image/jpeg;base64,'.format(image_counter) + \
-                    card.base64_encoded_image + ')'
-                result += "{}".format(imageStringMd)
-                result += "\n"
-                result += "\n"
-                image_counter += 1
-
             result += "|Attribut|Value|\n"
             result += "|---|---|\n"
             result += "|Id|{}|\n".format(card.id)
             result += "|Question|{}|\n".format(
                 card.question.replace("\n", "\t"))
+
+            if card.base64_encoded_image is not None:
+                # ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+                # imageStringMd = '<img src="data:image/jpeg;base64,' + \
+                #     card.base64_encoded_image + '" />'
+                fileName = 'test{}.jpeg'.format(imageCounter)
+                imageStringMd = '![Question Image {}]({})'.format(
+                    imageCounter, "./images/" + fileName)
+                imageCounter += 1
+                result += "|Image|{}|\n".format(imageStringMd)
+
+                image = base64.b64decode(str(card.base64_encoded_image))
+                imagePathAndFilename = (imagePath + "/" + fileName)
+                isExist = os.path.exists(imagePath)
+                if not isExist:
+                    # Create a new directory because it does not exist
+                    os.makedirs(imagePath)
+
+                img = Image.open(io.BytesIO(image))
+                img.save(imagePathAndFilename, 'jpeg')
 
             if card.is_open_question == True:
                 result += "|Answer|{}|\n".format(
