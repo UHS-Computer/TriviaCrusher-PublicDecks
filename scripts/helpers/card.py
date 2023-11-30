@@ -3,6 +3,7 @@ from typing import List
 from datetime import datetime
 import json_fix
 import sys
+import hashlib
 
 
 class Card:
@@ -24,10 +25,10 @@ class Card:
                  due_after_date: datetime | None = None
                  ) -> None:
         # Hash question and answers to generate id
-        hashValue = hash(tuple([tuple([a.strip() for a in answers]),
-                                question, base64_encoded_image, is_open_question]))
+        md5 = hashlib.md5(tuple([tuple([a.strip() for a in answers]),
+                                question, base64_encoded_image, is_open_question]).__str__().encode()).hexdigest()  # returns a str
 
-        self.id = (hashValue if hashValue > 0 else -1*hashValue).__str__()
+        self.id = md5
         self.phase = phase
         self.question = question.strip()
         self.answers = [a.strip() for a in answers]
