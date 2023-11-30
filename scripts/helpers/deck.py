@@ -45,8 +45,8 @@ class Deck:
             counter += 1
             result += "\n"
             if card.base64_encoded_image is not None:
-                imageStringMd = '<p><img src="data:image/jpeg;base64,' + \
-                    card.base64_encoded_image + '"></p>'
+                imageStringMd = '<img src="data:image/jpeg;base64,' + \
+                    card.base64_encoded_image + '" />'
                 result += "{}".format(imageStringMd)
                 result += "\n"
                 result += "\n"
