@@ -59,7 +59,6 @@ def download_image(url, file_path, file_name):
     # Check whether the specified path exists or not
     isExist = os.path.exists(file_path)
     # printing if the path exists or not
-    print(isExist)
     if not isExist:
         # Create a new directory because it does not exist
         os.makedirs(file_path)
@@ -98,11 +97,12 @@ foundStand = False
 
 for url in urls_to_scan:
     resp = urllib3.request("GET", url)
-    print(resp.status)
+    if resp.status > 250:
+        print("Found status code {} while loading sks questions...".format(resp.status))
+        exit(1)
     soup = BeautifulSoup(resp.data)
 
     x = soup.body.find('div', attrs={'id': 'content'})
-    # print(x.prettify())
     paragraphs = (x.findChildren(recursive=False))
 
     i = 0
@@ -129,10 +129,6 @@ for url in urls_to_scan:
             if current_answer is not None and current_question is not None:
                 result.addOpenQuestion(
                     current_question, current_answer, current_base64_image_str)
-                print("Question: ")
-                print(current_question)
-                print("Answer: ")
-                print(current_answer)
                 current_question = None
                 current_answer = None
                 current_base64_image_str = None
@@ -145,10 +141,6 @@ for url in urls_to_scan:
         # each question is started with a "Nummer X:" paragraph
         if "Nummer " in paragraph.get_text() and paragraph.get_text().endswith(":"):
             i += 1
-            print()
-            print()
-            print("-------------------")
-            print(paragraph.get_text())
             notation_counter = 0
 
             continue
@@ -170,12 +162,8 @@ for url in urls_to_scan:
             current_question = paragraph.get_text()
 
             if paragraph.find_all("img").__len__() != 0:
-                print("found image!")
-                print(paragraph.find_all("img").__len__())
                 image_paths = []
                 for img in paragraph.find_all("img"):
-                    # print(img.attrs["src"])
-                    # download images here!
                     image_filename = img.attrs["src"].split(
                         "/")[-1].split("?")[0]
 
@@ -191,7 +179,6 @@ for url in urls_to_scan:
                         image_paths += convertedImages
                     else:
                         image_paths.append(file_path)
-                print(image_paths)
 
                 # if multiple images, combine them into one image
                 if image_paths.__len__() >= 1:
@@ -200,9 +187,7 @@ for url in urls_to_scan:
 
                     # find maximum width of images
                     newImageWidth = max([image.size[0] for image in images])
-                    print(newImageWidth)
                     newImageHeight = sum([image.size[1] for image in images])
-                    print(newImageHeight)
                     new_image = Image.new(
                         'RGB', (newImageWidth, newImageHeight), (250, 250, 250))
 
