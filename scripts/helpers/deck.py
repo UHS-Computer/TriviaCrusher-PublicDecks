@@ -48,6 +48,8 @@ class Deck:
                 imageStringMd = '<p><img src="data:image/jpeg;base64,' + \
                     card.base64_encoded_image + '"></p>'
                 result += "{}".format(imageStringMd)
+                result += "\n"
+                result += "\n"
 
             result += "|Attribut|Value|\n"
             result += "|---|---|\n"
