@@ -49,6 +49,7 @@ jobs:
           output=$(git status ./de_DE/categories/freizeit/sks/sks-deck.md) && if [[ "${output}" == *"modified:"* ]] ;then 
             echo "pushing changes"; 
             git checkout -B feauture/update-sks-deck
+            git branch --set-upstream-to=origin/feauture/update-sks-deck feauture/update-sks-deck
             git pull -s recursive -X ours
             git commit -am "Automated update for SKS file";
             git push --set-upstream origin feauture/update-sks-deck;
