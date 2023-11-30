@@ -44,6 +44,7 @@ jobs:
         # git diff --stat head^1 -- ./de_DE/categories/freizeit/sks/sks-deck.md
         run: |
           git status
+          git config pull.rebase false
           git config --global user.name '3DExtended'
           git config --global user.email '3dextended@users.noreply.github.com'
           output=$(git status ./de_DE/categories/freizeit/sks/sks-deck.md) && if [[ "${output}" == *"modified:"* ]] ;then 
