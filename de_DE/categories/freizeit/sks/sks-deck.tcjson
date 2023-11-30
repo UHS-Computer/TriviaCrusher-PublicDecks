@@ -1,0 +1,22 @@
+{
+    "id": "583b9f1a-2151-45f1-b875-db0191af24af",
+    "name": "Fragen mit Bildern",
+    "icon": {
+        "fontFamily": "MaterialIcons",
+        "codePoint": 58701,
+        "fontFamilyFallback": null,
+        "fontPackage": null,
+        "matchTextDirection": false
+    },
+    "cards": [{
+        "id": "f41baee7-406f-4cbc-bf6b-7a014d350923",
+        "phase": 4,
+        "question": "Was siehst du hier?",
+        "answers": ["Fernseher", "Marie"],
+        "isOpenQuestion": false,
+        "base64EncodedImage": null,
+        "correctlyAnsweredCounter": 4,
+        "totalAnsweredCounter": 10,
+        "dueAfterDate": "2023-11-30T22:53:16.100520"
+    }]
+}
