@@ -47,6 +47,7 @@ jobs:
           git checkout -B feauture/update-sks-deck
 
           python scripts/sks-deck-auto-update.py
+          python scripts/build-overview-file.py
 
           output=$(git status ./de_DE/categories/freizeit/sks/sks-deck.md) && if [[ "${output}" == *"modified:"* ]] ;then 
             echo "pushing changes"; 

@@ -47,6 +47,7 @@ jobs:
           git checkout -B feauture/update-sbfb-deck
 
           python scripts/sbfb-deck-auto-update.py
+          python scripts/build-overview-file.py
 
           output=$(git status ./de_DE/categories/freizeit/sbfb/sbfb-deck.md) && if [[ "${output}" == *"modified:"* ]] ;then 
             echo "pushing changes"; 
