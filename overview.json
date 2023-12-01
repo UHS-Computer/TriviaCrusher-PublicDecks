@@ -19,21 +19,6 @@
       "cardCount": 300
     },
     {
-      "name": "SKS - Sportk\u00fcstenschifferschein Theorie Fragen",
-      "icon": {
-        "fontFamily": "MaterialIcons",
-        "codePoint": 58701,
-        "fontFamilyFallback": null,
-        "fontPackage": null,
-        "matchTextDirection": false
-      },
-      "id": "8f2274f7-889b-4874-aac7-92a6dc0ef16d",
-      "description": "Dies sind die Lernzettel f\u00fcr den SKS - Sportk\u00fcstenschifferschein.\nHierzu wurden die offiziellen Pr\u00fcfungsfragen von <https://www.elwis.de/> in Karteikarten \u00fcbersetzt.\n\n\nStand des Exports ist: Stand: 01. Juli 2006",
-      "path": "./de_DE/categories/freizeit/sks/sks-deck.tcjson",
-      "language": "de_DE",
-      "cardCount": 638
-    },
-    {
       "name": "SBF-See - Sportbootf\u00fchrerschein See Theorie Fragen",
       "icon": {
         "fontFamily": "MaterialIcons",
@@ -47,6 +32,21 @@
       "path": "./de_DE/categories/freizeit/sbfs/sbfs-deck.tcjson",
       "language": "de_DE",
       "cardCount": 285
+    },
+    {
+      "name": "SKS - Sportk\u00fcstenschifferschein Theorie Fragen",
+      "icon": {
+        "fontFamily": "MaterialIcons",
+        "codePoint": 58701,
+        "fontFamilyFallback": null,
+        "fontPackage": null,
+        "matchTextDirection": false
+      },
+      "id": "8f2274f7-889b-4874-aac7-92a6dc0ef16d",
+      "description": "Dies sind die Lernzettel f\u00fcr den SKS - Sportk\u00fcstenschifferschein.\nHierzu wurden die offiziellen Pr\u00fcfungsfragen von <https://www.elwis.de/> in Karteikarten \u00fcbersetzt.\n\n\nStand des Exports ist: Stand: 01. Juli 2006",
+      "path": "./de_DE/categories/freizeit/sks/sks-deck.tcjson",
+      "language": "de_DE",
+      "cardCount": 638
     }
   ]
 }

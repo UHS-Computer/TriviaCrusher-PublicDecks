@@ -1,4 +1,5 @@
 import glob
+import operator
 import json_fix
 
 import json
@@ -23,6 +24,7 @@ for f in glob.glob('./**/*.tcjson', recursive=True):
             })
 
 print(tableEntries)
+tableEntries.sort(key=operator.itemgetter('name'))
 
 # write overview file
 f = open("./overview.json", 'w')
