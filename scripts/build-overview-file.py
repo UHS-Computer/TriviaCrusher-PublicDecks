@@ -13,7 +13,13 @@ for f in glob.glob('./**/*.tcjson', recursive=True):
         deck = json.loads(jsonString)
         tableEntries.append(
             {
-                "name": deck["name"], "icon": deck["icon"], "description": deck["description"], "path": f, "language": f.split("/")[1]})
+                "name": deck["name"],
+                "icon": deck["icon"],
+                "description": deck["description"],
+                "path": f,
+                "language": f.split("/")[1],
+                "cardCount": deck["cards"].__len__(),
+            })
 
 print(tableEntries)
 
