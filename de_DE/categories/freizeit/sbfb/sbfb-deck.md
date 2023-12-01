@@ -1,14 +1,11 @@
 # SBF-Binnen - Sportbootführerschein Binnen Theorie Fragen
 
-
 ## Description
 
 Dies sind die Lernzettel für den Sportbootführerschein Binnen.
-Hierzu wurden die offiziellen Prüfungsfragen von <https://www.elwis.de/> in Karteikarten übersetzt.
-
+Hierzu wurden die offiziellen Prüfungsfragen in Karteikarten übersetzt.
 
 Stand des Exports ist: Stand: 01. August 2023
-
 
 ## Cards
 
@@ -23,7 +20,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Ein Inhaber eines Sportbootführerscheins muss die Fahrzeugführung übernehmen.|
 |Wrong Answer 3|Ein Inhaber eines Sportbootführerscheins muss die Verantwortung übernehmen.|
 
-
 ### 2. Card
 
 |Attribut|Value|
@@ -34,7 +30,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration von 0,8 ‰ oder mehr im Körper vorhanden ist.|
 |Wrong Answer 2|Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration von 1,0 ‰ oder mehr im Körper vorhanden ist.|
 |Wrong Answer 3|Wenn man infolge körperlicher oder geistiger Mängel oder infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung behindert ist oder wenn eine Blutalkoholkonzentration von 0,3 ‰ oder mehr im Körper vorhanden ist.|
-
 
 ### 3. Card
 
@@ -47,32 +42,29 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Wenn es weder auf Grund sitzt noch vor Anker liegt noch manövrierbehindert oder manövrierunfähig ist.|
 |Wrong Answer 3|Wenn es weder an Land festgemacht ist noch vor Anker liegt noch Fahrt durchs Wasser macht.|
 
-
 ### 4. Card
 
 |Attribut|Value|
 |---|---|
 |Id|4548768d6e2e0e8c88e547386503605a|
-|Question|4. Wie lang ist die Dauer eines kurzen Tons (		 	)?|
+|Question|4. Wie lang ist die Dauer eines kurzen Tons (    )?|
 |Image|![Question Image 1](./images/test1.jpeg)|
 |Correct Answer|Etwa 1 Sekunde.|
 |Wrong Answer 1|Etwa 2 Sekunden.|
 |Wrong Answer 2|Weniger als 1 Sekunde.|
 |Wrong Answer 3|Weniger als 4 Sekunden.|
 
-
 ### 5. Card
 
 |Attribut|Value|
 |---|---|
 |Id|dfd2bc84e29e0c6de243ccc7e35360a9|
-|Question|5. Wie lang ist die Dauer eines langen Tons (		 	)?|
+|Question|5. Wie lang ist die Dauer eines langen Tons (    )?|
 |Image|![Question Image 2](./images/test2.jpeg)|
 |Correct Answer|Etwa 4 - 6 Sekunden.|
 |Wrong Answer 1|Etwa 2 - 6 Sekunden.|
 |Wrong Answer 2|Etwa 1 - 2 Sekunden.|
 |Wrong Answer 3|Etwa 6 - 8 Sekunden.|
-
 
 ### 6. Card
 
@@ -85,7 +77,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Wenn es durch das Segeln keine Fahrt durchs Wasser macht.|
 |Wrong Answer 3|Wenn es durch das Segeln keine Fahrt über Grund macht.|
 
-
 ### 7. Card
 
 |Attribut|Value|
@@ -96,7 +87,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Einen schwarzen Kegel, Spitze oben.|
 |Wrong Answer 2|Einen schwarzen Rhombus.|
 |Wrong Answer 3|Zwei schwarze Bälle senkrecht übereinander.|
-
 
 ### 8. Card
 
@@ -109,7 +99,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Die Seite in Fahrtrichtung rechts.|
 |Wrong Answer 3|Die Seite in Fahrtrichtung links.|
 
-
 ### 9. Card
 
 |Attribut|Value|
@@ -120,7 +109,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die dem Wind zugekehrte Seite.|
 |Wrong Answer 2|Die Seite in Fahrtrichtung rechts.|
 |Wrong Answer 3|Die Seite in Fahrtrichtung links.|
-
 
 ### 10. Card
 
@@ -133,7 +121,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Von abends 18:00 Uhr bis morgens 06:00 Uhr und bei verminderter Sicht.|
 |Wrong Answer 3|Bei Dunkelheit, schlechtem Wetter und verminderter Sicht.|
 
-
 ### 11. Card
 
 |Attribut|Value|
@@ -144,7 +131,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Sie zeigt Kurs und Geschwindigkeit eines Fahrzeugs an.|
 |Wrong Answer 2|Sie zeigt Fahrtrichtung und Position eines Fahrzeugs an.|
 |Wrong Answer 3|Sie zeigt Fahrtrichtung und Kurs eines Fahrzeugs an.|
-
 
 ### 12. Card
 
@@ -157,7 +143,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Eine Dreifarbenlaterne an gut sichtbarer Stelle.|
 |Wrong Answer 3|Eine Zweifarbenlaterne an oder nahe der Mastspitze.|
 
-
 ### 13. Card
 
 |Attribut|Value|
@@ -168,7 +153,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die für ein Segelfahrzeug vorgeschriebenen Lichter.|
 |Wrong Answer 2|Zwei rote Rundumlichter senkrecht übereinander.|
 |Wrong Answer 3|Seitenlichter rot und grün und ein rotes Rundumlicht.|
-
 
 ### 14. Card
 
@@ -181,7 +165,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen.|
 |Wrong Answer 3|Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen.|
 
-
 ### 15. Card
 
 |Attribut|Value|
@@ -192,7 +175,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Dasjenige Fahrzeug muss ausweichen, welches das Andere an seiner Backbordseite hat.|
 |Wrong Answer 2|Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen.|
 |Wrong Answer 3|Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen.|
-
 
 ### 16. Card
 
@@ -206,7 +188,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Ankerlieger über 100 m Länge.|
 |Wrong Answer 3|Manövrierbehinderter Schleppverband über 200 m Länge.|
 
-
 ### 17. Card
 
 |Attribut|Value|
@@ -218,7 +199,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Begegnungsverbot.|
 |Wrong Answer 2|Überholverbot für Fahrzeuge unter 20 m Länge.|
 |Wrong Answer 3|Begegnungsverbot für Fahrzeuge über 20 m Länge.|
-
 
 ### 18. Card
 
@@ -232,7 +212,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Überholverbot; mit Gegenverkehr muss gerechnet werden.|
 |Wrong Answer 3|Überholverbot für alle Fahrzeuge.|
 
-
 ### 19. Card
 
 |Attribut|Value|
@@ -244,7 +223,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Gefährdeter Strandbereich, Überspülungsgefahr; Mindestpassierabstand 100 m.|
 |Wrong Answer 2|Wasserstraße, die jederzeit sicher befahren werden kann; keine Gefahr durch Seegang.|
 |Wrong Answer 3|Wasserstraße, die nicht jederzeit sicher befahren werden kann; Gefahr durch Seegang.|
-
 
 ### 20. Card
 
@@ -258,7 +236,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Maximalabstand in Metern, der in der nachfolgenden Strecke vom Aufstellungsort der Tafel an eingehalten werden muss.|
 |Wrong Answer 3|Verengung des Fahrwassers auf 40 m.|
 
-
 ### 21. Card
 
 |Attribut|Value|
@@ -270,7 +247,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Dauernde Sperrung einer Teilstrecke der Wasserstraße.|
 |Wrong Answer 2|Gebot zur Abgabe eines langen Signaltons.|
 |Wrong Answer 3|Weiterfahrt für Sportfahrzeuge verboten.|
-
 
 ### 22. Card
 
@@ -284,7 +260,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Ankern verboten für Kleinfahrzeuge ab 12 m Länge.|
 |Wrong Answer 3|Ankern und Festmachen verboten.|
 
-
 ### 23. Card
 
 |Attribut|Value|
@@ -296,7 +271,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Festmache- und Liegeverbot für Sportboote.|
 |Wrong Answer 2|Festmache- und Liegeverbot für Sportboote über 12 m Länge.|
 |Wrong Answer 3|Festmache- und Liegeverbot für gewerbliche Schiffe.|
-
 
 ### 24. Card
 
@@ -310,7 +284,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Abgabe von zwei langen Tönen.|
 |Wrong Answer 3|Abgabe eines kurzen und eines langen Tons.|
 
-
 ### 25. Card
 
 |Attribut|Value|
@@ -322,7 +295,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Genehmigungspflichtige Übungsstrecke für das Fahren mit Wasserski oder Wassermotorrädern.|
 |Wrong Answer 2|Fahren mit Wasserski oder Wassermotorrädern erlaubt. Wasserskiläufer und Wassermotorräder haben Vorfahrt.|
 |Wrong Answer 3|Genehmigungsfreie Übungsstrecke für das Fahren mit Wasserski oder Wassermotorrädern.|
-
 
 ### 26. Card
 
@@ -336,7 +308,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Queren des Fahrwassers ist gestattet.|
 |Wrong Answer 3|Wechseln der Fahrwasserseite ist gestattet.|
 
-
 ### 27. Card
 
 |Attribut|Value|
@@ -348,7 +319,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Verbot der Durchfahrt und Sperrung für Kleinfahrzeuge.|
 |Wrong Answer 2|Verbot der Durchfahrt, jedoch für Kleinfahrzeuge ohne laufende Antriebsmaschine befahrbar.|
 |Wrong Answer 3|Verbot der Durchfahrt, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.|
-
 
 ### 28. Card
 
@@ -362,7 +332,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Stoppsignal für alle Fahrzeuge.|
 |Wrong Answer 3|Außergewöhnliche Schifffahrtsbehinderung.|
 
-
 ### 29. Card
 
 |Attribut|Value|
@@ -374,7 +343,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Brücke, Sperrwerk oder Schleuse geschlossen.|
 |Wrong Answer 2|Stoppsignal für alle Fahrzeuge.|
 |Wrong Answer 3|Außergewöhnliche Schifffahrtsbehinderung.|
-
 
 ### 30. Card
 
@@ -388,7 +356,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Schleuse in Betrieb, auf Einfahrtsignal gemäß Reihenfolge warten.|
 |Wrong Answer 3|Schleuse in Betrieb, auf Ausfahrtsignal gemäß Reihenfolge warten.|
 
-
 ### 31. Card
 
 |Attribut|Value|
@@ -399,7 +366,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die 15 goldenen Regeln für Wassersportler.|
 |Wrong Answer 2|Die 10 Grundregeln für Wassersportler.|
 |Wrong Answer 3|Die 15 Verhaltensregeln für Wassersportler.|
-
 
 ### 32. Card
 
@@ -412,7 +378,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Durch umsichtiges Verhalten und Beachtung der Verkehrsvorschriften.|
 |Wrong Answer 3|Durch vorausschauendes Fahren und Ausweichen entsprechend der Verkehrsvorschriften.|
 
-
 ### 33. Card
 
 |Attribut|Value|
@@ -423,7 +388,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Weil in diesen Zonen die Gefahr von Grundberührungen besteht.|
 |Wrong Answer 2|Weil durch die Pflanzen der Propeller blockiert werden könnte.|
 |Wrong Answer 3|Weil in diesen Zonen badende Personen schwer zu erkennen sind.|
-
 
 ### 34. Card
 
@@ -436,7 +400,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Da es dem großen in Fahrt befindlichen Fahrzeug sonst nicht ausweichen kann.|
 |Wrong Answer 3|Es kann durch dessen Bug- oder Heckwelle Seeschlag erleiden.|
 
-
 ### 35. Card
 
 |Attribut|Value|
@@ -447,7 +410,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Weil dadurch Sog und Wellenschlag vermieden wird.|
 |Wrong Answer 2|Weil dadurch Einflüsse von Wellen und Wassertiefe ausgeglichen werden.|
 |Wrong Answer 3|Weil dies die Steuerwirkung der Schraube erhöht.|
-
 
 ### 36. Card
 
@@ -460,7 +422,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Das gegen den Strom fahrende Fahrzeug ist ausweichpflichtig.|
 |Wrong Answer 3|Das mit dem Strom fahrende Fahrzeug hat aufzustoppen.|
 
-
 ### 37. Card
 
 |Attribut|Value|
@@ -471,7 +432,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Das größere Fahrzeug kann durch Stau, Sog oder Schwell aus dem Kurs laufen und kollidieren oder querschlagen, in flachen Gewässern auf Grund laufen.|
 |Wrong Answer 2|Das kleinere Fahrzeug kann durch Stau, Sog oder Schwell aus dem Kurs laufen und kollidieren oder kentern, in flachen Gewässern extrem versetzt werden.|
 |Wrong Answer 3|Das größere Fahrzeug kann durch Wellenbildung aus dem Kurs laufen und kollidieren oder querschlagen, in flachen Gewässern auf Grund laufen.|
-
 
 ### 38. Card
 
@@ -484,7 +444,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|In der Sportbootführerscheinverordnung.|
 |Wrong Answer 3|In der Sportbootvermietungsverordnung.|
 
-
 ### 39. Card
 
 |Attribut|Value|
@@ -495,7 +454,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Wenn Ankerkette oder -leine nicht vibrieren und sich der anliegende Magnetkompasskurs nicht verändert.|
 |Wrong Answer 2|Wenn beim Handauflegen auf die Ankerkette oder -leine kein Rucken zu verspüren ist und das Fahrzeug nicht schwojt.|
 |Wrong Answer 3|Wenn beim Handauflegen auf die Ankerkette oder -leine kein Rucken zu verspüren ist und sich die Ankerpeilung ändert.|
-
 
 ### 40. Card
 
@@ -508,7 +466,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Ein möglichst stumpfer Winkel.|
 |Wrong Answer 3|Ein Winkel von 60° bis 70°.|
 
-
 ### 41. Card
 
 |Attribut|Value|
@@ -519,7 +476,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Das Heck dreht nach Steuerbord.|
 |Wrong Answer 2|Der Kurs des Schiffes ändert sich nicht.|
 |Wrong Answer 3|Der Bug dreht nach Backbord.|
-
 
 ### 42. Card
 
@@ -532,7 +488,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Kurze Unterbrechung des Motorlaufs.|
 |Wrong Answer 3|Automatische Schubumkehr.|
 
-
 ### 43. Card
 
 |Attribut|Value|
@@ -543,7 +498,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Räume lüften und abwarten.|
 |Wrong Answer 2|Gleichmäßig verteilen.|
 |Wrong Answer 3|Mit entsprechendem Mittel neutralisieren.|
-
 
 ### 44. Card
 
@@ -556,7 +510,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Von achtern gesehen in Vorausfahrt Drehung des Propellers gegen den Uhrzeigersinn.|
 |Wrong Answer 3|Von vorne gesehen in Rückwärtsfahrt Drehung des Propellers gegen den Uhrzeigersinn.|
 
-
 ### 45. Card
 
 |Attribut|Value|
@@ -567,7 +520,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Von vorne gesehen in Vorausfahrt Drehung des Propellers gegen den Uhrzeigersinn.|
 |Wrong Answer 2|Von achtern gesehen in Vorausfahrt Drehung des Propellers im Uhrzeigersinn.|
 |Wrong Answer 3|Von vorne gesehen in Rückwärtsfahrt Drehung des Propellers im Uhrzeigersinn.|
-
 
 ### 46. Card
 
@@ -580,7 +532,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Das Versetzen nach hinten.|
 |Wrong Answer 3|Das seitliche Versetzen des Bugs.|
 
-
 ### 47. Card
 
 |Attribut|Value|
@@ -591,7 +542,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Sie hilft beim Kurshalten.|
 |Wrong Answer 2|Sie hilft beim Überholen.|
 |Wrong Answer 3|Sie hilft beim Begegnen.|
-
 
 ### 48. Card
 
@@ -604,7 +554,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Die Steuerbord- oder Backbordseite je nach Ruderlage.|
 |Wrong Answer 3|Es gibt keine empfehlenswerte Anlegeseite.|
 
-
 ### 49. Card
 
 |Attribut|Value|
@@ -615,7 +564,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Motor in Leerlaufstellung, keine elektrischen Schalter betätigen, Vorbereitung gegen das Überlaufen von Kraftstoff treffen, kein offenes Feuer.|
 |Wrong Answer 2|Fenster schließen, keine elektrischen Schalter betätigen, Vorbereitung gegen das Überlaufen von Kraftstoff treffen, kein offenes Feuer.|
 |Wrong Answer 3|Motor abstellen, Feuerlöscher bereithalten, Vorbereitung gegen das Überlaufen von Kraftstoff treffen, kein offenes Feuer.|
-
 
 ### 50. Card
 
@@ -628,7 +576,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Durch den Schraubenwiderstand und Anstellwinkel des Propellers.|
 |Wrong Answer 3|Durch den Schraubenwiderstand und Richtung des Propellers.|
 
-
 ### 51. Card
 
 |Attribut|Value|
@@ -639,7 +586,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Weil sich durch den Radeffekt ein Unterdruck am Propeller entwickelt.|
 |Wrong Answer 2|Durch den Abstand von Propeller und Ruderblatt.|
 |Wrong Answer 3|Weil sich durch den Radeffekt ein Unterdruck am Ruder entwickelt.|
-
 
 ### 52. Card
 
@@ -652,7 +598,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Schraubendrehzahl, Getriebeöltemperatur, Öldruck.|
 |Wrong Answer 3|Druck der Einspritzpumpe, Impellerpumpe, Ölpumpe.|
 
-
 ### 53. Card
 
 |Attribut|Value|
@@ -663,7 +608,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Zu viel Motoröl, defekte Impellerpumpe, geschlossenes Seeventil, zu niedriger Kühlwasserstand.|
 |Wrong Answer 2|Defektes Thermostat, defekte Impellerpumpe, geschlossenes Seeventil, zu hohe Batteriespannung.|
 |Wrong Answer 3|Defektes Thermostat, defekte Kupplung, geschlossenes Seeventil, zu niedriger Kühlwasserstand.|
-
 
 ### 54. Card
 
@@ -676,7 +620,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Keilriemen gerissen und hoher Stromverbrauch.|
 |Wrong Answer 3|Anlasser ist nach dem Starten ausgefallen.|
 
-
 ### 55. Card
 
 |Attribut|Value|
@@ -687,7 +630,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Zu viel Motoröl im Motor.|
 |Wrong Answer 2|FI-Schalter defekt.|
 |Wrong Answer 3|Zu hohe Motordrehzahl.|
-
 
 ### 56. Card
 
@@ -700,7 +642,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Verschmutzter Ölfilter.|
 |Wrong Answer 3|Verschmutzter Luftfilter.|
 
-
 ### 57. Card
 
 |Attribut|Value|
@@ -711,7 +652,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Ansaugdüsen zu groß bzw. zu klein.|
 |Wrong Answer 2|Tankdeckel ist offen.|
 |Wrong Answer 3|Schraube an der Welle lose.|
-
 
 ### 58. Card
 
@@ -724,7 +664,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Nautische Publikation wie „Sicherheit auf dem Wasser“ und Internationales Signalbuch.|
 |Wrong Answer 3|Internationales Signalbuch und Verordnung über die Sicherung der Seefahrt.|
 
-
 ### 59. Card
 
 |Attribut|Value|
@@ -735,7 +674,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Es darf immer ohne Fahrerlaubnis geführt werden, unabhängig von der Antriebsleistung.|
 |Wrong Answer 2|Bis zu einer Antriebsleistung von 11,03 Kilowatt Betriebsart S1 (Dauerbetrieb).|
 |Wrong Answer 3|Es darf nie ohne Fahrerlaubnis geführt werden, unabhängig von der Antriebsleistung.|
-
 
 ### 60. Card
 
@@ -748,7 +686,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Tagestank schließen und Kraftstofffilter entwässern.|
 |Wrong Answer 3|Fahrzeug seefest hinterlassen und den Hafenmeister verständigen.|
 
-
 ### 61. Card
 
 |Attribut|Value|
@@ -759,7 +696,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Beibehaltung der Geschwindigkeit, um durch Gleitfahrt schädlichen Sog und Wellenschlag auszuschließen.|
 |Wrong Answer 2|Verringerung der Geschwindigkeit und nötigenfalls vom Rechtsfahrgebot abweichen.|
 |Wrong Answer 3|Auf Höhe der festgemachten Fahrzeuge aufstoppen und überprüfen, dass kein Dritter behindert oder geschädigt wird.|
-
 
 ### 62. Card
 
@@ -772,7 +708,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Möglichst auf dem Vorschiff, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen Raum für Gasbehälter, der in Bodenhöhe eine Öffnung nach außenbords hat.|
 |Wrong Answer 3|Möglichst an Deck, geschützt vor Sonneneinstrahlung, sonst in einem besonders abgeschlossenen Raum für Gasbehälter, der oben belüftet ist.|
 
-
 ### 63. Card
 
 |Attribut|Value|
@@ -783,7 +718,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Beide Gase sind leichter als Luft und bilden mit Luft ein explosives Gemisch.|
 |Wrong Answer 2|Beide Gase sind schwerer als Wasser und bilden mit Wasser ein explosives Gemisch.|
 |Wrong Answer 3|Beide Gase sind schwerer als Luft und bilden mit Wasser ein explosives Gemisch.|
-
 
 ### 64. Card
 
@@ -796,7 +730,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Gaszuführung absperren und für Lüftung sorgen. Außerdem keine elektrischen Schalter betätigen und per Telefon Hilfe holen.|
 |Wrong Answer 3|Gasleitung entleeren und die Gasfreiheit mit dem Feuerzeug prüfen sowie über Funk oder Mobiltelefon Hilfe anfordern.|
 
-
 ### 65. Card
 
 |Attribut|Value|
@@ -807,7 +740,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die Anlage muss abgenommen sein, die Inbetriebnahme darf nur durch eine besonders geprüfte Person erfolgen.|
 |Wrong Answer 2|Die Anlage muss abgenommen sein und jährlich überprüft werden. Die Inbetriebnahme darf nur durch eine besonders geprüfte Person erfolgen.|
 |Wrong Answer 3|Die Abnahme der Anlage darf nicht länger als drei Jahre zurückliegen. Haupthahn und andere Absperrventile sind zu öffnen.|
-
 
 ### 66. Card
 
@@ -820,7 +752,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Gasflasche fachgerecht entsorgen.|
 |Wrong Answer 3|Der Flüssiggasbehälter ist vollständig zu entleeren.|
 
-
 ### 67. Card
 
 |Attribut|Value|
@@ -831,7 +762,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Jährlich und nach jedem Einsatz oder Übungsgebrauch.|
 |Wrong Answer 2|Entsprechend der Herstellerangabe, mindestens alle 3 Jahre.|
 |Wrong Answer 3|Jährlich, jeweils vor Beginn der Wassersportsaison.|
-
 
 ### 68. Card
 
@@ -844,7 +774,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|CO2-Feuerlöscher, mindestens alle 2 Jahre.|
 |Wrong Answer 3|ABC-Pulverlöscher, mindestens einmal pro Jahr.|
 
-
 ### 69. Card
 
 |Attribut|Value|
@@ -855,7 +784,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Rauchabzug sicherstellen und Feuerlöscher rechtzeitig einsetzen, dabei den Löschstrahl möglichst in die lodernden Flammen halten.|
 |Wrong Answer 2|Luftzufuhr verhindern und den Feuerlöscher mit sparsamen Löschstrahlstößen einsetzen, dabei das Feuer möglichst von oben bekämpfen.|
 |Wrong Answer 3|Handhabungshinweise durchlesen und den Feuerlöscher sofort einsetzen, dabei das Feuer möglichst von unten bekämpfen.|
-
 
 ### 70. Card
 
@@ -868,7 +796,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich ist; Notsignal geben.|
 |Wrong Answer 3|Hilfe leisten und so lange am Unfallort bleiben, bis ein weiterer Beistand nicht mehr erforderlich ist; Verschlusszustand herstellen.|
 
-
 ### 71. Card
 
 |Attribut|Value|
@@ -879,7 +806,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Luftdruckänderung, Sonneneinstrahlung und Höhenlage.|
 |Wrong Answer 2|Luftdruckänderung, Luftfeuchtigkeit und Jahreszeit.|
 |Wrong Answer 3|Luftdruckänderung, Tageszeit und Temperatur.|
-
 
 ### 72. Card
 
@@ -892,7 +818,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Wenn Gefahr für Leib oder Leben von Personen oder erhebliche Sachwerte besteht und daher Hilfe benötigt wird.|
 |Wrong Answer 3|Wenn Gefahr für Leib oder Leben von Personen, erhebliche Sachwerte oder die maritime Umwelt besteht.|
 
-
 ### 73. Card
 
 |Attribut|Value|
@@ -903,7 +828,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Für Sportboote von weniger als 11,03 kW (15 PS) Nutzleistung bei Verwendung eines Verbrennungsmotors bzw. 7,5 kW bei Verwendung eines Elektromotors Betriebsart S1 (Dauerbetrieb) und mehr als 20 m Länge.|
 |Wrong Answer 2|Für Sportboote von mehr als 11,03 kW (15 PS) Nutzleistung bei Verwendung eines Verbrennungsmotors bzw. 7,5 kW bei Verwendung eines Elektromotors Betriebsart S1 (Dauerbetrieb) und mehr als 20 m Länge.|
 |Wrong Answer 3|Für Sportboote von weniger als 11,03 kW (15 PS) Nutzleistung bei Verwendung eines Verbrennungsmotors bzw. 7,5 kW bei Verwendung eines Elektromotors Betriebsart S1 (Dauerbetrieb) und weniger als 20 m Länge.|
-
 
 ### 74. Card
 
@@ -916,7 +840,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Auf den Bundeswasserstraßen und allen Landesgewässern.|
 |Wrong Answer 3|Auf allen Seewasserstraßen.|
 
-
 ### 75. Card
 
 |Attribut|Value|
@@ -927,7 +850,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Bei zweifelhafter Tauglichkeit wegen Alkoholmissbrauch.|
 |Wrong Answer 2|Bei zweifelhafter Zuverlässigkeit aus Altersgründen.|
 |Wrong Answer 3|Bei fehlender Zuverlässigkeit nach einer begangener Ordnungswidrigkeit.|
-
 
 ### 76. Card
 
@@ -940,7 +862,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Es ist alles zu tun, was zur Vermeidung der Gefährdung von Menschenleben, Behinderung der Schifffahrt und Beeinträchtigung der Umwelt nötig ist.|
 |Wrong Answer 3|Es ist alles zu tun, was zur Vermeidung von Beschädigungen an Fahrzeugen, Anlagen oder Ufern, Behinderung der Schifffahrt und Beeinträchtigung der Umwelt nötig ist.|
 
-
 ### 77. Card
 
 |Attribut|Value|
@@ -951,7 +872,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Bei unmittelbar bevorstehender Begegnung.|
 |Wrong Answer 2|Bei unmittelbar bevorstehendem Überholvorgang.|
 |Wrong Answer 3|Bei mittelbar drohender Gefahr für sich oder andere.|
-
 
 ### 78. Card
 
@@ -964,7 +884,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Mindestalter 14 Jahre.|
 |Wrong Answer 3|Besitz eines Sportbootführerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen für Sportboote mit Antriebsmaschine oder eines gleichgestellten Befähigungszeugnisses.|
 
-
 ### 79. Card
 
 |Attribut|Value|
@@ -975,7 +894,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Nachweis der Zuverlässigkeit.|
 |Wrong Answer 2|Mindestens 14 Jahre.|
 |Wrong Answer 3|Mindestalter 16 Jahre.|
-
 
 ### 80. Card
 
@@ -988,18 +906,16 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Sie muss mindestens 16 Jahre alt und Inhaber des Sportbootführerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen für Sportboote mit Antriebsmaschine sein.|
 |Wrong Answer 3|Sie muss mindestens 14 Jahre alt und körperlich, geistig und fachlich geeignet sein.|
 
-
 ### 81. Card
 
 |Attribut|Value|
 |---|---|
 |Id|f78be685a1df2d65ad8a6041de0eb64d|
 |Question|81. Wo erhält man Auskünfte über Verkehrsbeschränkungen und aktuelle Informationen über Binnenschifffahrtsstraßen?|
-|Correct Answer|Bei der Wasserstraßen- und Schifffahrtsverwaltung, im Internet unter www.elwis.de und bei der Wasserschutzpolizei.|
+|Correct Answer|Bei der Wasserstraßen- und Schifffahrtsverwaltung, im Internet unter <www.elwis.de> und bei der Wasserschutzpolizei.|
 |Wrong Answer 1|Bei einem Wasserwirtschaftsamt und bei der Wasserschutzpolizei.|
 |Wrong Answer 2|In der Binnenschifffahrtsstraßen-Ordnung Teil II.|
 |Wrong Answer 3|In der Binnenschiffsuntersuchungsordnung.|
-
 
 ### 82. Card
 
@@ -1012,7 +928,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Alle Schallzeichen wahrnehmen zu können und nach allen Seiten genügend freie Sicht zu haben.|
 |Wrong Answer 3|Alle Informationen und Weisungen zu empfangen und zu geben und nach allen Seiten genügend freie Sicht zu haben.|
 
-
 ### 83. Card
 
 |Attribut|Value|
@@ -1023,7 +938,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Bis zu einer Länge von weniger als 25 m (mit Ruder und Bugspriet).|
 |Wrong Answer 2|Bis zu einer Länge von weniger als 25 m (ohne Ruder und Bugspriet).|
 |Wrong Answer 3|Bis zu einer Länge von weniger als 15 m (mit Ruder und Bugspriet).|
-
 
 ### 84. Card
 
@@ -1036,7 +950,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Moselschifffahrtspolizeiverordnung, Donauschifffahrtspolizeiverordnung.|
 |Wrong Answer 3|Wassermotorräderverordnung, Wasserskiverordnung.|
 
-
 ### 85. Card
 
 |Attribut|Value|
@@ -1047,7 +960,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Donauschifffahrtspolizeiverordnung, Binnenschifffahrtsstraßen-Ordnung.|
 |Wrong Answer 2|Moselschifffahrtspolizeiverordnung, Binnenschiffsuntersuchungsordnung.|
 |Wrong Answer 3|Wassermotorräderverordnung, Wasserskiverordnung.|
-
 
 ### 86. Card
 
@@ -1060,7 +972,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Binnenschifffahrtsstraßen-Ordnung, Rheinschifffahrtspolizeiverordnung.|
 |Wrong Answer 3|Moselschifffahrtspolizeiverordnung, Binnenschiffsuntersuchungsordnung.|
 
-
 ### 87. Card
 
 |Attribut|Value|
@@ -1071,7 +982,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die Wasserschutzpolizei oder die Wasserstraßen- und Schifffahrtsverwaltung ist mit genauer Angabe der Schiffsdaten zu informieren.|
 |Wrong Answer 2|Das Fahrzeug verbleibt vor Ort bis die Wasserschutzpolizei eintrifft.|
 |Wrong Answer 3|Ein Baggerunternehmen ist zu verständigen, damit das Hindernis beseitigt wird.|
-
 
 ### 88. Card
 
@@ -1084,7 +994,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Den Teil der Wasserstraße, in dem für den durchgehenden Schiffsverkehr bestimmte Breiten und Tiefen vorgehalten bzw. angestrebt werden.|
 |Wrong Answer 3|Es ist der Teil der Wasserstraße, deren Tiefe bei 2,50 m und mehr beginnt.|
 
-
 ### 89. Card
 
 |Attribut|Value|
@@ -1095,7 +1004,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Den Teil der Wasserstraße, der den örtlichen Umständen nach vom durchgehenden Schiffsverkehr benutzt wird.|
 |Wrong Answer 2|Es ist der Teil der Wasserstraße, deren Breite mindestens 150 m und deren Tiefe mindestens 3,00 m beträgt.|
 |Wrong Answer 3|Es ist der Teil der Wasserstraße, deren Breite mindestens 88 m und deren Tiefe mindestens 2,50 m beträgt.|
-
 
 ### 90. Card
 
@@ -1108,7 +1016,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Durch Aushang bei Wasserschutzpolizei-Stationen.|
 |Wrong Answer 3|Durch Bekanntgaben der Hochwasserschutzzentrale.|
 
-
 ### 91. Card
 
 |Attribut|Value|
@@ -1119,7 +1026,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|An den Aushängen bei Hafenämtern und Schleusen.|
 |Wrong Answer 2|An den Aushängen bei Wasserschutzpolizei-Stationen.|
 |Wrong Answer 3|An den Pegeln und den Einsenkungsmarken der Fahrzeuge.|
-
 
 ### 92. Card
 
@@ -1132,7 +1038,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Verbot der Schifffahrt bei Nacht und unsichtigem Wetter.|
 |Wrong Answer 3|Überholverbot und Fahrverbot für Fahrzeuge ohne Sprechfunk.|
 
-
 ### 93. Card
 
 |Attribut|Value|
@@ -1143,7 +1048,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Geschwindigkeitsbeschränkung und Fahrverbot für Fahrzeuge ohne Sprechfunk.|
 |Wrong Answer 2|Überholverbot und Fahrverbot für Fahrzeuge ohne Sprechfunk.|
 |Wrong Answer 3|Verbot der Schifffahrt bei Nacht und unsichtigem Wetter.|
-
 
 ### 94. Card
 
@@ -1156,7 +1060,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Bei der Bergfahrt liegt die rechte Uferseite rechts.|
 |Wrong Answer 3|Bei der Talfahrt liegt die rechte Uferseite links.|
 
-
 ### 95. Card
 
 |Attribut|Value|
@@ -1167,7 +1070,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die Fahrt über Grund.|
 |Wrong Answer 2|Die Fahrt mit der Strömung.|
 |Wrong Answer 3|Die Fahrt in Richtung Mündung.|
-
 
 ### 96. Card
 
@@ -1180,7 +1082,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Die Fahrt in Richtung Quelle.|
 |Wrong Answer 3|Die Fahrt gegen die Strömung.|
 
-
 ### 97. Card
 
 |Attribut|Value|
@@ -1191,7 +1092,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Grüne Spitztonnen oder Schwimmstangen.|
 |Wrong Answer 2|Rote Spierentonnen oder Schwimmstangen.|
 |Wrong Answer 3|Grüne Spierentonnen oder Schwimmstangen.|
-
 
 ### 98. Card
 
@@ -1204,7 +1104,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Rote Spierentonnen oder Schwimmstangen.|
 |Wrong Answer 3|Grüne Spierentonnen oder Schwimmstangen.|
 
-
 ### 99. Card
 
 |Attribut|Value|
@@ -1215,7 +1114,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die rechte Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.|
 |Wrong Answer 2|Die linke Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.|
 |Wrong Answer 3|Die rechte Fahrrinnenseite, gekennzeichnet durch grüne Spitztonnen oder Schwimmstangen.|
-
 
 ### 100. Card
 
@@ -1228,7 +1126,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Fahrrinnenspaltung. Vorbeifahrt nur an Steuerbord möglich.|
 |Wrong Answer 3|Fahrrinnenspaltung. In Fahrtrichtung rechts halten.|
 
-
 ### 101. Card
 
 |Attribut|Value|
@@ -1239,7 +1136,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Stangen mit Toppzeichen: grüner Kegel, Spitze nach oben, oder grün-weiß gestreifte Schwimmstange mit grünem Kegel.|
 |Wrong Answer 2|Stangen mit Toppzeichen: roter Kegel, Spitze nach oben, oder rot-weiß gestreifte Schwimmstange mit rotem Zylinder.|
 |Wrong Answer 3|Stangen mit Toppzeichen: grüner Kegel, Spitze nach unten, oder grün-weiß gestreifte Schwimmstange mit grünem Kegel.|
-
 
 ### 102. Card
 
@@ -1252,7 +1148,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Hindernis an der rechten Seite der Wasserstraße.|
 |Wrong Answer 3|Fahrrinnenrand an der rechten Seite der Wasserstraße.|
 
-
 ### 103. Card
 
 |Attribut|Value|
@@ -1263,7 +1158,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Wenden.|
 |Wrong Answer 2|Überholen.|
 |Wrong Answer 3|Begegnen.|
-
 
 ### 104. Card
 
@@ -1276,7 +1170,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Ein Ankerlieger, der zwei Anker ausgelegt hat.|
 |Wrong Answer 3|Ein Fahrzeug über 135 m.|
 
-
 ### 105. Card
 
 |Attribut|Value|
@@ -1288,7 +1181,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Die Seitenlichter und ein sichtbares weißes Rundumlicht.|
 |Wrong Answer 3|Ein von allen Seiten sichtbares weißes Blinklicht auf der Fahrwasserseite.|
 
-
 ### 106. Card
 
 |Attribut|Value|
@@ -1299,7 +1191,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Mit einem weißen Döpper.|
 |Wrong Answer 2|Mit einem grünen Döpper.|
 |Wrong Answer 3|Mit einem roten Döpper.|
-
 
 ### 107. Card
 
@@ -1313,7 +1204,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Liegestelle für Fahrzeuge mit gesundheitsgefährdeten Stoffen, für Kleinfahrzeuge verboten.|
 |Wrong Answer 3|Liegestelle für alle Fahrzeuge, für Kleinfahrzeuge verboten.|
 
-
 ### 108. Card
 
 |Attribut|Value|
@@ -1326,7 +1216,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Liegestelle für Fahrzeuge mit gefährlichen Gütern, auch für Kleinfahrzeuge.|
 |Wrong Answer 3|Liegestelle für Fahrzeuge mit gefährlichen Gütern, nicht für Kleinfahrzeuge.|
 
-
 ### 109. Card
 
 |Attribut|Value|
@@ -1337,7 +1226,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Auf Schifffahrtskanälen und vor Schleusenkanälen.|
 |Wrong Answer 2|Vor Brücken und Hochspannungsleitungen.|
 |Wrong Answer 3|Vor Brücken und nach Hochspannungsleitungen.|
-
 
 ### 110. Card
 
@@ -1351,7 +1239,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Die Durchfahrt ist nur durch diese Brückenöffnung und nur in eine Richtung gestattet.|
 |Wrong Answer 3|Die Durchfahrt ist nur durch diese Brückenöffnung und in beide Richtungen gestattet.|
 
-
 ### 111. Card
 
 |Attribut|Value|
@@ -1363,7 +1250,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Empfohlene Durchfahrtsöffnung, Durchfahrt in beide Richtungen erlaubt.|
 |Wrong Answer 2|Die Durchfahrt ist nur durch diese Brückenöffnung und in beide Richtungen gestattet.|
 |Wrong Answer 3|Die Durchfahrt ist nur durch diese Brückenöffnung und nur in eine Richtung gestattet.|
-
 
 ### 112. Card
 
@@ -1377,7 +1263,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Empfohlene Durchfahrt nur zwischen den beiden Tafeln.|
 |Wrong Answer 3|Empfohlene Durchfahrt mit Gegenverkehr.|
 
-
 ### 113. Card
 
 |Attribut|Value|
@@ -1389,7 +1274,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Durchfahrt nur zwischen den beiden Tafeln erlaubt.|
 |Wrong Answer 2|Durchfahrt nur außerhalb der beiden Tafeln erlaubt.|
 |Wrong Answer 3|Empfohlene Durchfahrt mit Gegenverkehr.|
-
 
 ### 114. Card
 
@@ -1403,7 +1287,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Empfohlene Durchfahrt nur in eine Richtung.|
 |Wrong Answer 3|Durchfahrt nur neben der Tafel erlaubt.|
 
-
 ### 115. Card
 
 |Attribut|Value|
@@ -1415,7 +1298,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Empfohlene Durchfahrt mit Gegenverkehr.|
 |Wrong Answer 2|Empfohlene Durchfahrt in beide Richtungen.|
 |Wrong Answer 3|Durchfahrt nur außerhalb der beiden Tafeln erlaubt.|
-
 
 ### 116. Card
 
@@ -1429,7 +1311,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Gesperrte Wasserfläche, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.|
 |Wrong Answer 3|Schutzbedürftige Anlage.|
 
-
 ### 117. Card
 
 |Attribut|Value|
@@ -1440,7 +1321,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Einfahrt verboten, Schließen der Schleuse wird vorbereitet.|
 |Wrong Answer 2|Ausfahrt verboten, Öffnen der Schleuse wird vorbereitet.|
 |Wrong Answer 3|Ausfahrt verboten, Schließen der Schleuse wird vorbereitet.|
-
 
 ### 118. Card
 
@@ -1453,7 +1333,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Kleinfahrzeuge fahren vor den Fahrzeugen, die nicht Kleinfahrzeuge sind und ohne Aufforderung durch die Schleusenaufsicht in die Schleuse ein.|
 |Wrong Answer 3|Kleinfahrzeuge fahren nach den Fahrzeugen, die nicht Kleinfahrzeuge sind und ohne Aufforderung durch die Schleusenaufsicht in die Schleuse ein.|
 
-
 ### 119. Card
 
 |Attribut|Value|
@@ -1464,7 +1343,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Das erste Kleinfahrzeug muss so weit einfahren, dass es beim Leeren der Schleuse nicht auf den Drempel aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore, andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.|
 |Wrong Answer 2|Das erste Kleinfahrzeug muss so weit einfahren, dass es beim Füllen der Schleuse nicht auf den Drempel aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore, andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.|
 |Wrong Answer 3|Das letzte Kleinfahrzeug muss so weit einfahren, dass es beim Füllen der Schleuse nicht auf den Drempel aufsetzen kann. Die Festmacherleinen sind so zu bedienen, dass Stöße gegen Schleusenwände, Schleusentore, andere Fahrzeuge vermieden werden und ein sicheres Fieren der Leinen möglich ist.|
-
 
 ### 120. Card
 
@@ -1478,7 +1356,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Schubverband länger als 110 m.|
 |Wrong Answer 3|Fahrzeug ohne Maschinenantrieb länger als 110 m.|
 
-
 ### 121. Card
 
 |Attribut|Value|
@@ -1490,7 +1367,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Fahrzeug, das vor Anker liegt.|
 |Wrong Answer 2|Fahrzeuge mit Vorrang an einer Schleuse.|
 |Wrong Answer 3|Fahrzeug eines Schleppverbandes.|
-
 
 ### 122. Card
 
@@ -1504,7 +1380,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Fahrzeuge mit Vorrang an einer Schleuse.|
 |Wrong Answer 3|Schleppfahrzeug an der Spitze eines Schleppverbandes.|
 
-
 ### 123. Card
 
 |Attribut|Value|
@@ -1516,7 +1391,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Schubverband in Fahrt von achtern.|
 |Wrong Answer 2|Schubverband vor Anker liegend.|
 |Wrong Answer 3|Schubverband unter 110 m Länge.|
-
 
 ### 124. Card
 
@@ -1530,7 +1404,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Schubverband von achtern.|
 |Wrong Answer 3|Schubverband von Steuerbordseite.|
 
-
 ### 125. Card
 
 |Attribut|Value|
@@ -1543,7 +1416,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Schubverband von achtern.|
 |Wrong Answer 3|Schubverband von Steuerbordseite.|
 
-
 ### 126. Card
 
 |Attribut|Value|
@@ -1554,7 +1426,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Fahrzeug hat gesundheitsschädliche Stoffe geladen. Abstand beim Stillliegen 50 m.|
 |Wrong Answer 2|Fahrzeug hat explosive Stoffe geladen. Abstand beim Stillliegen 100 m.|
 |Wrong Answer 3|Fahrzeug der Überwachungsbehörden im Einsatz.|
-
 
 ### 127. Card
 
@@ -1568,7 +1439,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Fahrzeug hat explosive Stoffe geladen. Abstand beim Stillliegen 100 m.|
 |Wrong Answer 3|Fahrzeug der Überwachungsbehörden im Einsatz.|
 
-
 ### 128. Card
 
 |Attribut|Value|
@@ -1579,7 +1449,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Fahrzeug hat explosive Stoffe geladen, Abstand beim Stillliegen 100 m.|
 |Wrong Answer 2|Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.|
 |Wrong Answer 3|Fahrzeug der Überwachungsbehörden im Einsatz.|
-
 
 ### 129. Card
 
@@ -1593,7 +1462,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.|
 |Wrong Answer 3|Fahrzeug der Überwachungsbehörden im Einsatz.|
 
-
 ### 130. Card
 
 |Attribut|Value|
@@ -1604,7 +1472,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Fahrzeug hat gesundheitsschädliche Stoffe geladen, Abstand beim Stillliegen 50 m.|
 |Wrong Answer 2|Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.|
 |Wrong Answer 3|Fahrzeug der Überwachungsbehörden im Einsatz.|
-
 
 ### 131. Card
 
@@ -1618,7 +1485,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Fahrzeug hat brennbare Stoffe geladen, Abstand beim Stillliegen 10 m.|
 |Wrong Answer 3|Fahrzeug der Überwachungsbehörden im Einsatz.|
 
-
 ### 132. Card
 
 |Attribut|Value|
@@ -1631,7 +1497,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Geschlepptes Fahrzeug eines Schleppverbandes.|
 |Wrong Answer 3|Festgefahrenes Fahrzeug, das einseitig nicht passierbar ist.|
 
-
 ### 133. Card
 
 |Attribut|Value|
@@ -1642,7 +1507,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Das Wasser anleuchten.|
 |Wrong Answer 2|Das heranfahrende Fahrzeug anleuchten.|
 |Wrong Answer 3|Die Handlampe nach oben halten.|
-
 
 ### 134. Card
 
@@ -1655,7 +1519,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Es muss kein weiteres Licht geführt werden.|
 |Wrong Answer 3|Es muss ein zweites weißes Topplicht geführt werden.|
 
-
 ### 135. Card
 
 |Attribut|Value|
@@ -1666,7 +1529,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Zwei weiße Lichter übereinander.|
 |Wrong Answer 2|Weißes Rundumlicht.|
 |Wrong Answer 3|Lichter eines Kleinfahrzeugs mit Maschinenantrieb und ein zweites weißes Topplicht.|
-
 
 ### 136. Card
 
@@ -1679,7 +1541,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Zwei weiße Lichter übereinander.|
 |Wrong Answer 3|Weißes Funkellicht.|
 
-
 ### 137. Card
 
 |Attribut|Value|
@@ -1690,7 +1551,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Wenn es 15 m oder länger ist.|
 |Wrong Answer 2|Wenn es 10 m oder länger ist.|
 |Wrong Answer 3|Wenn es 18 m oder länger ist.|
-
 
 ### 138. Card
 
@@ -1703,7 +1563,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Topplicht: weiß 225°, Hecklicht 112,5° weiß, Seitenlichter: Backbord rot und Steuerbord grün, jeweils 135°|
 |Wrong Answer 3|Topplicht: weiß 112,5°, Hecklicht 225° weiß, Seitenlichter: Backbord rot und Steuerbord grün, jeweils 112,5°|
 
-
 ### 139. Card
 
 |Attribut|Value|
@@ -1714,7 +1573,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Dreifarbenlaterne im Topp.|
 |Wrong Answer 2|Seitenlichter.|
 |Wrong Answer 3|Topp- und Hecklicht.|
-
 
 ### 140. Card
 
@@ -1727,7 +1585,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Es hält Kurs und reduziert die Geschwindigkeit.|
 |Wrong Answer 3|Es wechselt den Kurs nach Steuerbord und hält die Geschwindigkeit.|
 
-
 ### 141. Card
 
 |Attribut|Value|
@@ -1738,7 +1595,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Es wechselt den Kurs nach Steuerbord und reduziert die Geschwindigkeit.|
 |Wrong Answer 2|Es hält Kurs und reduziert die Geschwindigkeit.|
 |Wrong Answer 3|Es muss ausweichen.|
-
 
 ### 142. Card
 
@@ -1751,7 +1607,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Es hält Kurs und reduziert die Geschwindigkeit.|
 |Wrong Answer 3|Es muss nicht ausweichen.|
 
-
 ### 143. Card
 
 |Attribut|Value|
@@ -1763,7 +1618,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Die Segelyacht mit Wind von Steuerbord, weil sie als Kleinfahrzeug unter Segel gilt.|
 |Wrong Answer 3|Beide Segelyachten, weil eines als Kleinfahrzeug mit Maschinenantrieb gilt und das andere den Wind von Backbord hat.|
 
-
 ### 144. Card
 
 |Attribut|Value|
@@ -1774,7 +1628,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Wenn sie den Wind nicht von derselben Seite haben, muss das Segelfahrzeug mit Wind von Steuerbord dem Segelfahrzeug mit Wind von Backbord ausweichen.|
 |Wrong Answer 2|Wenn sie den Wind von derselben Seite haben, muss das leeseitige dem luvseitigen ausweichen.|
 |Wrong Answer 3|Wenn sie den Wind von derselben Seite haben, müssen beide Fahrzeuge ausweichen.|
-
 
 ### 145. Card
 
@@ -1788,7 +1641,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet. Sog und Wellenschlag vermeiden.|
 |Wrong Answer 3|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.|
 
-
 ### 146. Card
 
 |Attribut|Value|
@@ -1800,7 +1652,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.|
 |Wrong Answer 2|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet. Sog und Wellenschlag vermeiden.|
 |Wrong Answer 3|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.|
-
 
 ### 147. Card
 
@@ -1814,7 +1665,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der roten Seite gestattet; rot-weiße Seite gesperrt. Vorbeifahrt mit unverminderter Geschwindigkeit möglich.|
 |Wrong Answer 3|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der roten Seite gestattet; rot-weiße Seite gesperrt. Sog und Wellenschlag vermeiden.|
 
-
 ### 148. Card
 
 |Attribut|Value|
@@ -1826,7 +1676,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der rot-weißen Seite gestattet; rote Seite gesperrt. Vorbeifahrt mit unverminderter Geschwindigkeit möglich.|
 |Wrong Answer 2|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der roten Seite gestattet; rot-weiße Seite gesperrt. Vorbeifahrt mit unverminderter Geschwindigkeit möglich.|
 |Wrong Answer 3|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der roten Seite gestattet; rot-weiße Seite gesperrt. Sog und Wellenschlag vermeiden.|
-
 
 ### 149. Card
 
@@ -1840,7 +1689,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet. Vorbeifahrt an der roten Seite mit unverminderter Geschwindigkeit möglich.|
 |Wrong Answer 3|Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der roten Seite gestattet; grüne Seite gesperrt.|
 
-
 ### 150. Card
 
 |Attribut|Value|
@@ -1852,7 +1700,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet; rote Seite gesperrt. Sog und Wellenschlag vermeiden.|
 |Wrong Answer 2|Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der grünen Seite gestattet. Vorbeifahrt an der roten Seite mit unverminderter Geschwindigkeit möglich.|
 |Wrong Answer 3|Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der roten Seite gestattet; grüne Seite gesperrt.|
-
 
 ### 151. Card
 
@@ -1866,7 +1713,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Schwimmendes Gerät bei der Arbeit. Vorbeifahrt an der Seite mit dem grün-weiß-grünen Tafelzeichen gestattet; rot-weiß-rote Seite gesperrt. Sog und Wellenschlag vermeiden.|
 |Wrong Answer 3|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Seite mit dem rot-weiß-roten Tafelzeichen gestattet; grün-weiß-grüne Seite gesperrt.|
 
-
 ### 152. Card
 
 |Attribut|Value|
@@ -1878,7 +1724,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.|
 |Wrong Answer 2|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet.|
 |Wrong Answer 3|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.|
-
 
 ### 153. Card
 
@@ -1892,7 +1737,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet.|
 |Wrong Answer 3|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.|
 
-
 ### 154. Card
 
 |Attribut|Value|
@@ -1904,7 +1748,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Schwimmendes Gerät bei der Arbeit. Vorbeifahrt nicht gestattet.|
 |Wrong Answer 2|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an der Steuerbordseite gestattet. Sog und Wellenschlag vermeiden.|
 |Wrong Answer 3|Festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt nicht gestattet.|
-
 
 ### 155. Card
 
@@ -1918,7 +1761,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Ein festgefahrenes oder gesunkenes Fahrzeug. Vorbeifahrt an jeder Seite mit unverminderter Geschwindigkeit gestattet.|
 |Wrong Answer 3|Schwimmende Anlage / Schwimmkörper. Vorbeifahrt in möglichst weitem Abstand, Geschwindigkeit vermindern, Sog und Wellenschlag vermeiden.|
 
-
 ### 156. Card
 
 |Attribut|Value|
@@ -1930,7 +1772,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Gesperrte Wasserfläche, jedoch für Kleinfahrzeuge ohne laufende Antriebsmaschine befahrbar.|
 |Wrong Answer 2|Gesperrte Wasserfläche, für Kleinfahrzeuge nicht befahrbar.|
 |Wrong Answer 3|Gesperrte Wasserfläche, Verbot der Durchfahrt und Sperrung der Schifffahrt.|
-
 
 ### 157. Card
 
@@ -1944,7 +1785,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Fahrverbot für Fahrzeuge ohne Antriebsmaschine.|
 |Wrong Answer 3|Fahrverbot für Kleinfahrzeuge ohne laufende Antriebsmaschine.|
 
-
 ### 158. Card
 
 |Attribut|Value|
@@ -1955,7 +1795,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Durch grüne Tonnen.|
 |Wrong Answer 2|Durch rote Tonnen.|
 |Wrong Answer 3|Durch rot-grün gestreifte Tonnen.|
-
 
 ### 159. Card
 
@@ -1968,7 +1807,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Fahrzeug ist manövrierunfähig.|
 |Wrong Answer 3|Überholen nicht möglich.|
 
-
 ### 160. Card
 
 |Attribut|Value|
@@ -1980,7 +1818,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Achtung!|
 |Wrong Answer 3|Überholen nicht möglich.|
 
-
 ### 161. Card
 
 |Attribut|Value|
@@ -1991,7 +1828,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Maschine geht rückwärts.|
 |Wrong Answer 2|Fahrzeug ist manövrierunfähig.|
 |Wrong Answer 3|Achtung!|
-
 
 ### 162. Card
 
@@ -2005,7 +1841,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Kursänderung nach Backbord.|
 |Wrong Answer 3|Wenden über Backbord.|
 
-
 ### 163. Card
 
 |Attribut|Value|
@@ -2017,7 +1852,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Wenden über Steuerbord.|
 |Wrong Answer 2|Kursänderung nach Backbord.|
 |Wrong Answer 3|Kursänderung nach Steuerbord.|
-
 
 ### 164. Card
 
@@ -2031,7 +1865,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.|
 |Wrong Answer 3|Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.|
 
-
 ### 165. Card
 
 |Attribut|Value|
@@ -2043,7 +1876,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Überholen an der Steuerbordseite des Vorausfahrenden.|
 |Wrong Answer 2|Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.|
 |Wrong Answer 3|Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.|
-
 
 ### 166. Card
 
@@ -2057,7 +1889,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Überholen an der Steuerbordseite des Vorausfahrenden.|
 |Wrong Answer 3|Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Backbord.|
 
-
 ### 167. Card
 
 |Attribut|Value|
@@ -2070,7 +1901,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Hafen oder Nebenwasserstraße; Ein- oder Ausfahrt mit Kursänderung nach Steuerbord.|
 |Wrong Answer 3|Überholen an der Steuerbordseite des Vorausfahrenden.|
 
-
 ### 168. Card
 
 |Attribut|Value|
@@ -2081,7 +1911,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Eine Folge von mindestens 4 Tönen von je etwa einer viertel Sekunde Dauer und mit je einer viertel Sekunde Pause.|
 |Wrong Answer 2|Eine Folge von mindestens 2 Tönen von je etwa einer viertel Sekunde Dauer und mit je einer viertel Sekunde Pause.|
 |Wrong Answer 3|Eine Folge von mindestens 8 Tönen von je etwa einer viertel Sekunde Dauer und mit je einer viertel Sekunde Pause.|
-
 
 ### 169. Card
 
@@ -2094,7 +1923,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Fahrzeug ist manövrierunfähig.|
 |Wrong Answer 3|Überholen nicht möglich.|
 
-
 ### 170. Card
 
 |Attribut|Value|
@@ -2105,7 +1933,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Fünf kurze Töne. Bei Tag eine rote Flagge, bei Nacht ein rotes Licht im oberen Halbkreis schwenken.|
 |Wrong Answer 2|Ein langer, vier kurze Töne. Bei Tag eine rote Flagge, bei Nacht ein rotes Licht setzen.|
 |Wrong Answer 3|Eine Gruppe von kurzen und langen Tönen im Intervall geben. Bei Nacht ein rotes Blinklicht einschalten.|
-
 
 ### 171. Card
 
@@ -2118,7 +1945,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Fahrzeuge begegnen sich an Steuerbord. Dieses Zeichen braucht gar nicht beachtet zu werden.|
 |Wrong Answer 3|Fahrzeuge begegnen sich an Steuerbord. Dieses Zeichen gilt auch für alle Kleinfahrzeuge.|
 
-
 ### 172. Card
 
 |Attribut|Value|
@@ -2129,7 +1955,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Das aus- und die einfahrenden Fahrzeuge passieren sich an der Backbordseite, das Kleinfahrzeug ist nur zu erhöhter Aufmerksamkeit verpflichtet.|
 |Wrong Answer 2|Das aus- und die einfahrenden Fahrzeuge passieren sich an der Steuerbordseite, das Kleinfahrzeug ist wartepflichtig.|
 |Wrong Answer 3|Das aus- und die einfahrenden Fahrzeuge passieren sich an der Backbordseite, das Kleinfahrzeug hat Vorrang.|
-
 
 ### 173. Card
 
@@ -2142,7 +1967,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|In der Sportbootführerscheinverordnung, bei der Wasserstraßen- und Schifffahrtsverwaltung und der Wasserschutzpolizei.|
 |Wrong Answer 3|In der Binnenschifferpatentverordnung, bei der Wasserstraßen- und Schifffahrtsverwaltung und der Wasserschutzpolizei.|
 
-
 ### 174. Card
 
 |Attribut|Value|
@@ -2153,7 +1977,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Zügig überholen. Gegebenenfalls das Fahrzeug stark beschleunigen, um schnell passieren zu können.|
 |Wrong Answer 2|Zügig überholen; überholen nur auf der Steuerbordseite erlaubt, ausreichend Abstand halten.|
 |Wrong Answer 3|Zügig überholen. Dicht am Ufer entlang fahren, eventuelle Schallzeichen müssen von Kleinfahrzeugen beachtet werden.|
-
 
 ### 175. Card
 
@@ -2166,7 +1989,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Wenn sich zwei Fahrzeuge einander nähern und sich der Kurs eines Fahrzeuges ändert.|
 |Wrong Answer 3|Wenn sich zwei Fahrzeuge einander nähern und beide Fahrzeuge ihren Kurs nach steuerbord ändern.|
 
-
 ### 176. Card
 
 |Attribut|Value|
@@ -2177,7 +1999,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Rechtzeitig, klar erkennbar und nach Steuerbord.|
 |Wrong Answer 2|Rechtzeitig, klar erkennbar und nach Backbord.|
 |Wrong Answer 3|Rechtzeitig, klar erkennbar und vorsichtig.|
-
 
 ### 177. Card
 
@@ -2190,7 +2011,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Ausweichpflichtig ist das Fahrzeug, welches das andere an seiner Steuerbordseite sieht.|
 |Wrong Answer 3|Ausweichpflichtig ist das Fahrzeug, welches das andere an seiner Backbordseite sieht.|
 
-
 ### 178. Card
 
 |Attribut|Value|
@@ -2202,7 +2022,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Kleinfahrzeuge mit Maschinenantrieb und geschleppte Fahrzeuge.|
 |Wrong Answer 3|Fahrzeuge die geschoben werden.|
 
-
 ### 179. Card
 
 |Attribut|Value|
@@ -2213,7 +2032,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Es darf ein anderes Kleinfahrzeug, das sein steuerbordseitiges Ufer verlässt, nicht zum Ausweichen zwingen.|
 |Wrong Answer 2|Es darf ein anderes Kleinfahrzeug, das sein backbordseitiges Ufer verlässt, zum Ausweichen zwingen.|
 |Wrong Answer 3|Es darf ein anderes Kleinfahrzeug, das sein steuerbordseitiges Ufer anhält, zum Ausweichen zwingen.|
-
 
 ### 180. Card
 
@@ -2227,7 +2045,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Das Fahrzeug unter Maschinenantrieb ist ausweichpflichtig.|
 |Wrong Answer 3|Beide Fahrzeuge sind ausweichpflichtig.|
 
-
 ### 181. Card
 
 |Attribut|Value|
@@ -2239,7 +2056,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Kleinfahrzeuge sind gegenüber Fahrzeugen, die nicht Kleinfahrzeuge sind, bei der Begegnung gleichgestellt.|
 |Wrong Answer 3|Kleinfahrzeuge sind gegenüber Fahrzeugen, die nicht Kleinfahrzeuge sind, ausweichpflichtig. Sie brauchen aber keinen besonderen Raum zum Manövrieren frei zu geben.|
 
-
 ### 182. Card
 
 |Attribut|Value|
@@ -2250,7 +2066,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Das Fahrzeug ohne Segel ist ausweichpflichtig.|
 |Wrong Answer 2|Das Fahrzeug unter Segel mit einem schwarzen Kegel ist nicht ausweichpflichtig.|
 |Wrong Answer 3|Beide Fahrzeuge sind ausweichpflichtig.|
-
 
 ### 183. Card
 
@@ -2264,7 +2079,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Ausweichpflichtig ist das Fahrzeug, welches das Andere an seiner Backbordseite sieht.|
 |Wrong Answer 3|Ausweichpflichtig ist das Fahrzeug, welches den Wind von Backbord hat.|
 
-
 ### 184. Card
 
 |Attribut|Value|
@@ -2275,7 +2089,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Fahrzeug in der Talfahrt.|
 |Wrong Answer 2|Fahrzeug unter Segel.|
 |Wrong Answer 3|Beide sind ausweichpflichtig.|
-
 
 ### 185. Card
 
@@ -2289,7 +2102,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|A ist ausweichpflichtig. Segelfahrzeuge mit Wind von Steuerbord müssen Segelfahrzeugen mit Wind von Backbord ausweichen.|
 |Wrong Answer 3|B ist ausweichpflichtig. Segelfahrzeuge mit Wind von Steuerbord müssen Segelfahrzeugen mit Wind von Backbord ausweichen.|
 
-
 ### 186. Card
 
 |Attribut|Value|
@@ -2302,7 +2114,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|A ist ausweichpflichtig. Das leeseitige Boot muss dem luvseitigen ausweichen.|
 |Wrong Answer 3|B ist ausweichpflichtig. Das leeseitige Boot muss dem luvseitigen ausweichen.|
 
-
 ### 187. Card
 
 |Attribut|Value|
@@ -2313,7 +2124,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Das Kleinfahrzeug A ist ausweichpflichtig. Ein Boot mit Wind von Steuerbord muss ausweichen, wenn es nicht klar ausmachen kann, ob das luvseitige Boot den Wind von Backbord hat.|
 |Wrong Answer 2|Boot B ist ausweichpflichtig, weil es sich bei Fahrzeug A um ein Kleinfahrzeug unter Segel handelt, das den Wind von Backbord hat.|
 |Wrong Answer 3|Boot B ist ausweichpflichtig, weil es sich um ein Kleinfahrzeug handelt und Kleinfahrzeuge anderen Kleinfahrzeugen unter Segel ausweichen müssen.|
-
 
 ### 188. Card
 
@@ -2327,7 +2137,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Boot B, weil leeseitig.|
 |Wrong Answer 3|Boot C, weil leeseitig.|
 
-
 ### 189. Card
 
 |Attribut|Value|
@@ -2340,7 +2149,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|B gegenüber C und A, A gegenüber C.|
 |Wrong Answer 3|A gegenüber B und C, C gegenüber B.|
 
-
 ### 190. Card
 
 |Attribut|Value|
@@ -2352,7 +2160,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Auf das gekenterte Boot steigen und sich ruhig verhalten, um Wärmeverlust zu minimieren. Sollte das nicht möglich sein, ans benachbarte Ufer schwimmen und Hilfe holen.|
 |Wrong Answer 3|Rettungswesten anlegen und mit geeigneten Mitteln Hilfe herbeiholen. Gegebenenfalls Segel bergen.|
 
-
 ### 191. Card
 
 |Attribut|Value|
@@ -2363,7 +2170,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die der Wettsegelbestimmungen.|
 |Wrong Answer 2|Gegenüber Regattateilnehmern, die der Wettfahrtregeln, gegenüber anderen Fahrzeugen die der Binnenschifffahrtsstraßen-Ordnung.|
 |Wrong Answer 3|Fahrzeuge, die an einer Regatta teilnehmen, müssen unbeteiligten Fahrzeugen ausweichen.|
-
 
 ### 192. Card
 
@@ -2377,7 +2183,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Schubverband von vorne.|
 |Wrong Answer 3|Geschlepptes Kleinfahrzeug.|
 
-
 ### 193. Card
 
 |Attribut|Value|
@@ -2390,7 +2195,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Kleinfahrzeug, welches das Andere auf der Backbordseite hat.|
 |Wrong Answer 3|Beide sind ausweichpflichtig.|
 
-
 ### 194. Card
 
 |Attribut|Value|
@@ -2402,7 +2206,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Kleinfahrzeug unter Segel.|
 |Wrong Answer 3|Kleinfahrzeug unter Segel mit Maschinenantrieb.|
 
-
 ### 195. Card
 
 |Attribut|Value|
@@ -2413,7 +2216,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Kleinfahrzeug ohne Maschinenantrieb.|
 |Wrong Answer 2|Kleinfahrzeug unter Segel.|
 |Wrong Answer 3|Kleinfahrzeug unter Segel mit Maschinenantrieb.|
-
 
 ### 196. Card
 
@@ -2427,7 +2229,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Sperrung der Schifffahrt.|
 |Wrong Answer 3|Durchfahrt für Kleinfahrzeuge.|
 
-
 ### 197. Card
 
 |Attribut|Value|
@@ -2438,7 +2239,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Vor Einmündungen, an Lade-, Lösch- und Liegeplätzen, in der Nähe nicht frei fahrender Fähren, auf gekennzeichneten Strecken, in der Nähe schwimmender Geräte bei der Arbeit.|
 |Wrong Answer 2|Vor Hafeneinmündungen, an Lade-, Lösch- und Liegeplätzen, in der Nähe frei fahrender Fähren, auf gekennzeichneten Strecken, in der Nähe schwimmender Geräte bei der Arbeit.|
 |Wrong Answer 3|Vor Hafeneinmündungen, an Lade-, Lösch- und Liegeplätzen, in der Nähe nicht frei fahrender Fähren, auf gekennzeichneten Strecken, in der Nähe schwimmender Schifffahrtszeichen.|
-
 
 ### 198. Card
 
@@ -2452,7 +2252,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Vorgeschriebene Fahrtrichtung nur für Kleinfahrzeuge.|
 |Wrong Answer 3|Empfohlene Fahrtrichtung.|
 
-
 ### 199. Card
 
 |Attribut|Value|
@@ -2464,7 +2263,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Verbot des Überholens auf dem Streckenabschnitt.|
 |Wrong Answer 2|Achtung Doppelschleuse, linke Kammer gesperrt.|
 |Wrong Answer 3|Achtung Ausfahrt aus Hafen oder Nebenfahrwasser.|
-
 
 ### 200. Card
 
@@ -2478,7 +2276,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|10 km/h Höchstgeschwindigkeit für Kleinfahrzeuge.|
 |Wrong Answer 3|10 km/h für größere Fahrzeuge.|
 
-
 ### 201. Card
 
 |Attribut|Value|
@@ -2490,7 +2287,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Gebot: Geradeaus zu fahren.|
 |Wrong Answer 2|Gebot: Achtungssignal geben.|
 |Wrong Answer 3|Gebot: Vor dem Schild anhalten.|
-
 
 ### 202. Card
 
@@ -2504,7 +2300,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Verbote in beiden angezeigten Richtungen zu fahren.|
 |Wrong Answer 3|Wendeverbot in der Mitte des Fahrwassers.|
 
-
 ### 203. Card
 
 |Attribut|Value|
@@ -2516,7 +2311,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Empfohlener Wendeplatz. Stillliegen von Kleinfahrzeugen erlaubt.|
 |Wrong Answer 2|Vorgeschriebener Wendeplatz. Stillliegen für alle Fahrzeuge verboten.|
 |Wrong Answer 3|Vorgeschriebener Wendeplatz. Stillliegen von Kleinfahrzeugen erlaubt.|
-
 
 ### 204. Card
 
@@ -2530,7 +2324,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Schleuse.|
 |Wrong Answer 3|Sicherheitstor.|
 
-
 ### 205. Card
 
 |Attribut|Value|
@@ -2541,7 +2334,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Dunkelheit, Nebel, Schneefall, starker Regen.|
 |Wrong Answer 2|Nacht, Schneefall, starker Regen.|
 |Wrong Answer 3|Dämmerung, Nebel, Schneefall, starker Regen.|
-
 
 ### 206. Card
 
@@ -2554,7 +2346,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Mit einer für die Binnenschifffahrt zugelassenen funktionsfähigen Radaranlage und einer Sprechfunkanlage für den Seefunkdienst.|
 |Wrong Answer 3|Mit einer Radaranlage ohne Wendeanzeiger und einer Sprechfunkanlage für den Binnenschifffahrtsfunk.|
 
-
 ### 207. Card
 
 |Attribut|Value|
@@ -2565,7 +2356,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Auf allen Wasserstraßen ist ohne Radar und Sprechfunk die Fahrt unverzüglich einzustellen.|
 |Wrong Answer 2|Auf bestimmten Wasserstraßen ist ohne Radar und AIS-- die Fahrt unverzüglich einzustellen.|
 |Wrong Answer 3|Auf allen Wasserstraßen ist ohne Radar und ECDIS die Fahrt unverzüglich einzustellen.|
-
 
 ### 208. Card
 
@@ -2578,7 +2368,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Bessere Erkennbarkeit des Sportbootes bei Taglicht.|
 |Wrong Answer 3|Bessere Erkennbarkeit des Sportbootes bei unsichtigem Wetter.|
 
-
 ### 209. Card
 
 |Attribut|Value|
@@ -2589,7 +2378,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Ein geringer Ladungsstrom ist ungefährlich.|
 |Wrong Answer 2|Ein Überspannungsschutz.|
 |Wrong Answer 3|Ein Schutzkleinspannungsschalter.|
-
 
 ### 210. Card
 
@@ -2602,7 +2390,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Einen langen Ton geben, vereinzelt Glockenschläge.|
 |Wrong Answer 3|Drei kurze Töne geben, keine Glockenschläge.|
 
-
 ### 211. Card
 
 |Attribut|Value|
@@ -2613,7 +2400,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Ein manövrierbehindertes Fahrzeug, das durch Sichtzeichen Hilfe herbeirufen will.|
 |Wrong Answer 2|Keine Bedeutung für den durchgehenden Schiffsverkehr.|
 |Wrong Answer 3|Schützenswertes Fahrzeug, Vermeidung von Sog und Wellenschlag.|
-
 
 ### 212. Card
 
@@ -2626,7 +2412,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Wiederholt lange Gruppen von Glockenschlägen.|
 |Wrong Answer 3|Kreisförmiges Schwenken der Arme ist zu vermeiden, das Surfsegel ist möglichst senkrecht zu stellen.|
 
-
 ### 213. Card
 
 |Attribut|Value|
@@ -2637,7 +2422,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|An Bord sammeln und bei einer Liegestelle an Land stellen.|
 |Wrong Answer 2|An Bord sammeln und nur in geschlossenen Behältern über Bord werfen.|
 |Wrong Answer 3|An Bord sammeln. Die Abgabe ist an jeder Schleuse möglich.|
-
 
 ### 214. Card
 
@@ -2650,7 +2434,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Einer Person, die mindestens 14 Jahre alt, sowie körperlich und geistig geeignet ist.|
 |Wrong Answer 3|Einer Person jeden Alters, die körperlich und geistig geeignet ist.|
 
-
 ### 215. Card
 
 |Attribut|Value|
@@ -2661,7 +2444,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Nur Abfälle, die die Umwelt nicht gefährden, dürfen 300 m vom Ufer ins Wasser eingeleitet werden.|
 |Wrong Answer 2|Auf Seen dürfen keine Abfälle ins Wasser gelangen, auf Binnenschifffahrtsstraßen gibt es Sonderregelungen.|
 |Wrong Answer 3|Alle Schiffe müssen mit Fäkalientanks ausgerüstet sein und geeignete Behältnisse für die getrennte Aufnahme von Abfällen an Bord haben.|
-
 
 ### 216. Card
 
@@ -2674,7 +2456,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Es sind bei Arbeiten mit Unterwasseranstrichen die Richtlinien der Schiffsuntersuchungskommission zu beachten.|
 |Wrong Answer 3|Unterwasserarbeiten dürfen nur von zertifizierten Fachbetrieben, nach den Bestimmungen des Umweltschutzes ausgeführt werden.|
 
-
 ### 217. Card
 
 |Attribut|Value|
@@ -2685,7 +2466,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Rettungsweste anlegen. Alle Segel setzen, versuchen, einen Hafen oder eine geschützte Bucht anzulaufen.|
 |Wrong Answer 2|Rettungsweste bereit halten. Segel bergen, versuchen, einen Hafen oder eine geschützte Bucht anzulaufen.|
 |Wrong Answer 3|Rettungsweste anlegen. Segel setzen, versuchen die Gewässermitte anzulaufen.|
-
 
 ### 218. Card
 
@@ -2698,7 +2478,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Die linke Fahrrinnenseite, gekennzeichnet durch rote Stumpftonnen oder Schwimmstangen.|
 |Wrong Answer 3|Die rechte Fahrrinnenseite, gekennzeichnet durch grüne Spitztonnen oder Schwimmstangen.|
 
-
 ### 219. Card
 
 |Attribut|Value|
@@ -2709,7 +2488,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Besseres Wetter, steigende Temperatur.|
 |Wrong Answer 2|Schlechtes Wetter ist nicht zu erwarten.|
 |Wrong Answer 3|Besseres Wetter, Sonne.|
-
 
 ### 220. Card
 
@@ -2722,7 +2500,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Schlechtes Wetter ist nicht zu erwarten.|
 |Wrong Answer 3|Schlechtes Wetter, Starkwind oder Sturm.|
 
-
 ### 221. Card
 
 |Attribut|Value|
@@ -2733,7 +2510,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Außerhalb des Fahrwassers.|
 |Wrong Answer 2|Außerhalb der Fahrrinne.|
 |Wrong Answer 3|Überall, ohne die Schifffahrt zu gefährden.|
-
 
 ### 222. Card
 
@@ -2746,7 +2522,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Sonnenaufgang bis -untergang, Sicht 500 m und mehr.|
 |Wrong Answer 3|Sonnenaufgang bis -untergang, Sicht 300 m und mehr.|
 
-
 ### 223. Card
 
 |Attribut|Value|
@@ -2757,7 +2532,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Er darf bis zu 10 m beiderseits außerhalb des Kielwassers fahren.|
 |Wrong Answer 2|Er darf bis zu 5 m beiderseits außerhalb des Kielwassers fahren.|
 |Wrong Answer 3|Er muss uferseitig des Kielwassers fahren.|
-
 
 ### 224. Card
 
@@ -2770,7 +2544,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Wenn kein anderer Verkehrsteilnehmer behindert wird.|
 |Wrong Answer 3|Ab Hochwassermarke I nur im Fahrwasser.|
 
-
 ### 225. Card
 
 |Attribut|Value|
@@ -2781,7 +2554,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Im Abstand von 10 m zum Ufer fahren.|
 |Wrong Answer 2|Im Abstand von 10 m außerhalb des Tonnenstrichs fahren.|
 |Wrong Answer 3|Am Rande der Fahrrinne fahren.|
-
 
 ### 226. Card
 
@@ -2794,7 +2566,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Auf den Binnenschifffahrtsstraßen und allen Landesgewässern.|
 |Wrong Answer 3|Auf allen deutschen Wasserstraßen.|
 
-
 ### 227. Card
 
 |Attribut|Value|
@@ -2805,7 +2576,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Da diese auf Landesgewässern grundsätzlich inhaltlich abweichen.|
 |Wrong Answer 2|Da diese auf Bundesgewässern grundsätzlich inhaltlich abweichen.|
 |Wrong Answer 3|Weil die jeweils geltenden Vorschriften wichtige Informationen über die Brückendurchfahrtshöhen enthalten.|
-
 
 ### 228. Card
 
@@ -2818,7 +2588,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen.|
 |Wrong Answer 3|Der Sportbootführerschein mit dem Geltungsbereich Seeschifffahrtsstraßen.|
 
-
 ### 229. Card
 
 |Attribut|Value|
@@ -2829,7 +2598,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen.|
 |Wrong Answer 2|Der Sportbootführerschein mit dem Geltungsbereich Seeschifffahrtsstraßen.|
 |Wrong Answer 3|Der Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen zum Führen von Sportbooten mit Antriebsmaschine oder das Sportpatent.|
-
 
 ### 230. Card
 
@@ -2842,7 +2610,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|In der Binnenschiffsuntersuchungsordnung.|
 |Wrong Answer 3|In der Kleinfahrzeugkennzeichenverordnung.|
 
-
 ### 231. Card
 
 |Attribut|Value|
@@ -2853,7 +2620,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Es ist immer die Genehmigung des Eigentümers einzuholen sowie die jeweilige Befahrensordnung zu beachten.|
 |Wrong Answer 2|Es ist immer die Genehmigung des Wasserstraßen- und Schifffahrtsamtes einzuholen sowie die jeweilige Befahrensordnung zu beachten.|
 |Wrong Answer 3|Es ist gegebenenfalls die Genehmigung des Eigentümers einzuholen sowie die Binnenschifffahrtsstraßen-Ordnung zu beachten.|
-
 
 ### 232. Card
 
@@ -2866,7 +2632,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Nur amtlich anerkannte Kennzeichen.|
 |Wrong Answer 3|Kennzeichen gemäß Konformitätserklärung (CE-Zeichen).|
 
-
 ### 233. Card
 
 |Attribut|Value|
@@ -2877,7 +2642,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Der Deutsche Motoryachtverband.|
 |Wrong Answer 2|Der Deutsche Segler-Verband.|
 |Wrong Answer 3|Der Allgemeine Deutsche Automobilclub.|
-
 
 ### 234. Card
 
@@ -2890,7 +2654,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Nummer des Seeschiffsregisters, gefolgt vom Kennbuchstaben für die ausstellende Organisation.|
 |Wrong Answer 3|Die europäische Schiffsnummer, gefolgt vom Kennbuchstaben für die ausstellende Organisation.|
 
-
 ### 235. Card
 
 |Attribut|Value|
@@ -2901,7 +2664,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die Wasserstraßen- und Schifffahrtsämter.|
 |Wrong Answer 2|Die Wasserschutzpolizei.|
 |Wrong Answer 3|Amtsgerichte, bei denen ein Schiffsregister geführt wird.|
-
 
 ### 236. Card
 
@@ -2914,7 +2676,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Ab 10 m Schiffslänge.|
 |Wrong Answer 3|Ab 15 m Schiffslänge.|
 
-
 ### 237. Card
 
 |Attribut|Value|
@@ -2925,7 +2686,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Er muss die Geschwindigkeit anpassen und soweit wie möglich in seiner Fahrtrichtung rechts fahren, gegebenenfalls besondere Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen beachten.|
 |Wrong Answer 2|Er muss die Geschwindigkeit anpassen und soweit wie möglich in seiner Fahrtrichtung links fahren, gegebenenfalls besondere Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen beachten.|
 |Wrong Answer 3|Er muss die Geschwindigkeit anpassen und soweit wie möglich in der Fahrwassermitte bleiben, besondere Geschwindigkeitsbegrenzungen und Fahrtbeschränkungen sind nicht zu beachten.|
-
 
 ### 238. Card
 
@@ -2938,7 +2698,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Er hat das Fahrverbot für Fahrzeuge ohne Sprechfunk zu beachten.|
 |Wrong Answer 3|Er hat das Verbot der Schifffahrt bei Nacht zu beachten.|
 
-
 ### 239. Card
 
 |Attribut|Value|
@@ -2949,7 +2708,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert werden.|
 |Wrong Answer 2|Sie befindet sich auf der linken Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert werden.|
 |Wrong Answer 3|Sie befindet sich auf der linken Fahrrinnenseite und muss an Backbordseite des Schiffes passiert werden.|
-
 
 ### 240. Card
 
@@ -2962,7 +2720,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Sie befindet sich auf der linken Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert werden.|
 |Wrong Answer 3|Sie befindet sich auf der linken Fahrrinnenseite und muss an der Steuerbordseite des Schiffes passiert werden.|
 
-
 ### 241. Card
 
 |Attribut|Value|
@@ -2974,7 +2731,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Sie befindet sich auf der linken Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert werden.|
 |Wrong Answer 3|Sie befindet sich auf der rechten Fahrrinnenseite und muss an der Backbordseite des Schiffes passiert werden.|
 
-
 ### 242. Card
 
 |Attribut|Value|
@@ -2985,7 +2741,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Kenntlichmachung der Höhe der Brückenpfeiler.|
 |Wrong Answer 2|Kenntlichmachung einer gesperrten Brückendurchfahrt.|
 |Wrong Answer 3|Kenntlichmachung einer Untiefe im Brückenbereich.|
-
 
 ### 243. Card
 
@@ -2999,7 +2754,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Vorgeschriebene Durchfahrt mit Gegenverkehr und seitlicher Begrenzung der erlaubten Brückendurchfahrt.|
 |Wrong Answer 3|Empfohlene Durchfahrt mit Gegenverkehr ohne seitliche Begrenzung der erlaubten Brückendurchfahrt.|
 
-
 ### 244. Card
 
 |Attribut|Value|
@@ -3012,7 +2766,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Gesperrte Durchfahrt, jedoch für Kleinfahrzeuge ohne Antriebsmaschine befahrbar.|
 |Wrong Answer 3|Schutzbedürftige Anlage.|
 
-
 ### 245. Card
 
 |Attribut|Value|
@@ -3023,7 +2776,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Autoreifen erzeugen eine zu hohe Reibung.|
 |Wrong Answer 2|Autoreifen erzeugen schwarze Farbspuren am Boot und an der Schleusenmauer.|
 |Wrong Answer 3|Autoreifen sind schwimmfähig und können in der Schleuse zu erheblichen Störungen führen.|
-
 
 ### 246. Card
 
@@ -3036,7 +2788,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Drei weiße Topplichter in einem Dreieck angebracht, die Seitenlichter und zwei weiße Hecklichter waagerecht nebeneinander.|
 |Wrong Answer 3|Drei weiße Topplichter waagerecht nebeneinander, die Seitenlichter und drei weiße Hecklichter waagerecht nebeneinander.|
 
-
 ### 247. Card
 
 |Attribut|Value|
@@ -3047,7 +2798,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Ein Fahrzeug mit Vorrang beim Be- und Entladen.|
 |Wrong Answer 2|Ein Fahrzeug, das explosive Stoffe geladen hat.|
 |Wrong Answer 3|Ein Fahrzeug, das brennbare Stoffe geladen hat.|
-
 
 ### 248. Card
 
@@ -3060,7 +2810,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Wenn das Fahrzeug eine Länge von 25 m hat.|
 |Wrong Answer 3|Wenn das Fahrzeug eine Länge von mehr als 20 m hat.|
 
-
 ### 249. Card
 
 |Attribut|Value|
@@ -3071,7 +2820,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Schutzbedürftiges Fahrzeug, Geschwindigkeit beibehalten und Sog und Wellenschlag vermeiden.|
 |Wrong Answer 2|Schutzbedürftiges Fahrzeug, Geschwindigkeit vermindern.|
 |Wrong Answer 3|Schutzbedürftiges Fahrzeug, Sog und Wellenschlag vermeiden.|
-
 
 ### 250. Card
 
@@ -3084,7 +2832,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Eine rote Flagge im Kreis schwenken.|
 |Wrong Answer 3|Eine rote Flagge zeigen.|
 
-
 ### 251. Card
 
 |Attribut|Value|
@@ -3095,7 +2842,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Ein rotes Licht im oberen Halbkreis schwenken.|
 |Wrong Answer 2|Ein rotes Licht im Kreis schwenken.|
 |Wrong Answer 3|Ein rotes Licht zeigen.|
-
 
 ### 252. Card
 
@@ -3108,7 +2854,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Das Seefunkzeugnis für den Binnenschifffahrtsfunk.|
 |Wrong Answer 3|Das SRC-Sprechfunkzeugnis für den Binnenschifffahrtsfunk.|
 
-
 ### 253. Card
 
 |Attribut|Value|
@@ -3119,7 +2864,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Eine Fahrt bei Nacht mit Radar.|
 |Wrong Answer 2|Eine Fahrt mit Radar.|
 |Wrong Answer 3|Eine Fahrt am Tage mit Radar.|
-
 
 ### 254. Card
 
@@ -3132,7 +2876,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Eine Yacht mit einem Kielschwert.|
 |Wrong Answer 3|Eine Yacht mit zwei Kielen hintereinander.|
 
-
 ### 255. Card
 
 |Attribut|Value|
@@ -3143,7 +2886,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Sein Tiefgang ist größer.|
 |Wrong Answer 2|Die Abdrift ist geringer als bei anderen Kielbooten.|
 |Wrong Answer 3|Der Kiel lässt sich aufholen.|
-
 
 ### 256. Card
 
@@ -3156,7 +2898,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Eine Yacht mit einem aufholbaren Ballastkiel.|
 |Wrong Answer 3|Eine Yacht mit zwei Seitenkielen.|
 
-
 ### 257. Card
 
 |Attribut|Value|
@@ -3167,7 +2908,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Durch die Schwerkraft fließt das Wasser außenbords.|
 |Wrong Answer 2|Durch die Massenträgheit, die das Boot besitzt.|
 |Wrong Answer 3|Durch das Druckgefälle zwischen Luft- und Wasserdruck.|
-
 
 ### 258. Card
 
@@ -3180,7 +2920,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Die Fähigkeit eines Schiffes beim Loslassen der Pinne den Kurs beizubehalten.|
 |Wrong Answer 3|Die Fähigkeit eines Schiffes über Jahre die Rumpfform auch bei starker Beanspruchung beizubehalten.|
 
-
 ### 259. Card
 
 |Attribut|Value|
@@ -3191,7 +2930,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die Möglichkeit durch zusätzlichen Innenballast die Krängung zu verringern.|
 |Wrong Answer 2|Die Möglichkeit durch ein hohes Crewgewicht der Krängung entgegenzuwirken.|
 |Wrong Answer 3|Die Fähigkeit eines Schiffes, durch seine Rumpfform der Krängung entgegenzuwirken.|
-
 
 ### 260. Card
 
@@ -3204,7 +2942,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Katamarane sind vorwiegend "gewichtsstabil".|
 |Wrong Answer 3|Trimarane sind vorwiegend "gewichtsstabil".|
 
-
 ### 261. Card
 
 |Attribut|Value|
@@ -3215,7 +2952,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Kielyachten sind vorwiegend "formstabil".|
 |Wrong Answer 2|Kimmkieler sind vorwiegend "formstabil".|
 |Wrong Answer 3|Kielschwertyachten sind vorwiegend "formstabil".|
-
 
 ### 262. Card
 
@@ -3228,7 +2964,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Durch Umpumpen von Wasserballast.|
 |Wrong Answer 3|Durch Ausfahren von sogenannten Trimmklappen oder eines Zusatzschwertes.|
 
-
 ### 263. Card
 
 |Attribut|Value|
@@ -3239,7 +2974,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Es nimmt anfangs ab bis zu einem Minimum, von da wieder zu, bis Auftriebs- und Gewichtsschwerpunkt übereinander liegen, anschließend kentert die Jolle.|
 |Wrong Answer 2|Es nimmt anfangs ab und erreicht ein Maximum, wenn Auftriebs- und Gewichtsschwerpunkt übereinander liegen, anschließend kentert die Jolle.|
 |Wrong Answer 3|Es nimmt anfangs ab und erreicht sein Minimum, bis Auftriebs- und Gewichtsschwerpunkt übereinander liegen, anschließend kentert die Jolle.|
-
 
 ### 264. Card
 
@@ -3252,7 +2986,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Es nimmt bis zum Erreichen des kritischen Winkels von 90° ab.|
 |Wrong Answer 3|Es nimmt bis 90° Krängung ab und dann stetig zu.|
 
-
 ### 265. Card
 
 |Attribut|Value|
@@ -3263,7 +2996,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Sofort ankern und einen Notruf absetzen, Signalkörper (blauer Kegel) setzen.|
 |Wrong Answer 2|Rote Flagge kreisförmig schwenken, Schleppleine bereithalten.|
 |Wrong Answer 3|Segel bergen, Motor starten und in Rückwärtsfahrt das Ufer ansteuern.|
-
 
 ### 266. Card
 
@@ -3276,7 +3008,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Durch das Ausreiten mit Hilfe des Trapezes.|
 |Wrong Answer 3|Durch Ersetzen der Pinne durch ein Rad.|
 
-
 ### 267. Card
 
 |Attribut|Value|
@@ -3287,7 +3018,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Damit es trocknen kann und nicht verrottet.|
 |Wrong Answer 2|Damit die Reißfestigkeit erhalten bleibt.|
 |Wrong Answer 3|Damit es nicht durch UV-Strahlung beschädigt wird.|
-
 
 ### 268. Card
 
@@ -3300,7 +3030,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Damit sie nicht durch UV-Strahlung beschädigt werden.|
 |Wrong Answer 3|Damit sie nicht mit den Schoten verwechselt werden können.|
 
-
 ### 269. Card
 
 |Attribut|Value|
@@ -3311,7 +3040,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Kopf, Hals, Nock.|
 |Wrong Answer 2|Vorliek, Unterliek, Achterliek.|
 |Wrong Answer 3|Vorstag, Unterwant, Achterstag.|
-
 
 ### 270. Card
 
@@ -3324,7 +3052,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Vorstag, Unterwant, Achterstag.|
 |Wrong Answer 3|Kopf, Hals, Schothorn.|
 
-
 ### 271. Card
 
 |Attribut|Value|
@@ -3335,7 +3062,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Der Erleichterung des Reffens.|
 |Wrong Answer 2|Der Verhinderung des Killens von Segeln.|
 |Wrong Answer 3|Der Möglichkeit das Segel auch bei Starkwind nutzen zu können.|
-
 
 ### 272. Card
 
@@ -3348,7 +3074,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Killen führt zu Verletzungen der Besatzung.|
 |Wrong Answer 3|Killen führt zu Beschädigungen an nebeneinander liegenden Schiffen.|
 
-
 ### 273. Card
 
 |Attribut|Value|
@@ -3359,7 +3084,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Weil dadurch der Vortrieb des Segels leidet.|
 |Wrong Answer 2|Weil es nur noch bei Flaute eingesetzt werden kann.|
 |Wrong Answer 3|Weil Feuchtigkeit in das Segel eindringen kann.|
-
 
 ### 274. Card
 
@@ -3372,7 +3096,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|An der Nationalflagge am Heck.|
 |Wrong Answer 3|An den Trimmfäden im Großsegel.|
 
-
 ### 275. Card
 
 |Attribut|Value|
@@ -3383,7 +3106,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Der Fahrtwind.|
 |Wrong Answer 2|Der wahre Wind.|
 |Wrong Answer 3|Die Windrichtung.|
-
 
 ### 276. Card
 
@@ -3396,7 +3118,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Auf Amwindkurs.|
 |Wrong Answer 3|Auf Raumschotkurs.|
 
-
 ### 277. Card
 
 |Attribut|Value|
@@ -3407,7 +3128,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Der wahre Wind wird durch den Fahrtwind abgebremst.|
 |Wrong Answer 2|Der scheinbare Wind wird durch den Unterdruck am Segel entlang abgebremst.|
 |Wrong Answer 3|Der scheinbare Wind ist unabhängig von der Windrichtung immer schwächer als der wahre Wind.|
-
 
 ### 278. Card
 
@@ -3420,7 +3140,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Da der wahre Wind beim Amwindkurs stärker ist als bei raumen Kursen.|
 |Wrong Answer 3|Da der scheinbare Wind unabhängig von der Windrichtung immer stärker als der wahre Wind ist.|
 
-
 ### 279. Card
 
 |Attribut|Value|
@@ -3431,7 +3150,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Boote sind stabiler, wenn der Wind achterlicher einfällt.|
 |Wrong Answer 2|Der wahre Wind staut sich am Segel bei Raumschotkurs und ist deshalb schwächer.|
 |Wrong Answer 3|Bei Amwindkurs streicht der Wind am tragflächenartig gewölbten Segel entlang und wird dadurch beschleunigt.|
-
 
 ### 280. Card
 
@@ -3444,7 +3162,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Da durch den Trimm des Bootes sich der Kurs automatisch ändert, wenn der Wind zunimmt.|
 |Wrong Answer 3|Da die Windrichtung durch die Segelstellung beeinflusst wird, verändert sich auch der scheinbare Wind.|
 
-
 ### 281. Card
 
 |Attribut|Value|
@@ -3455,7 +3172,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Abfallen, um maximale Höhe zu segeln.|
 |Wrong Answer 2|Segel etwas fieren, um die Bö in Krängung umzusetzen.|
 |Wrong Answer 3|Ein Spinnacker kann gesetzt werden.|
-
 
 ### 282. Card
 
@@ -3468,7 +3184,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Es sollte nie ganz aufgeholt werden, da es sonst bei einer Kenterung zum Aufrichten der Jolle nicht mehr greifbar ist.|
 |Wrong Answer 3|Es sollte bei stärkerem Wind ganz aufgeholt werden, um die Steuerfähigkeit der Jolle zu verbessern.|
 
-
 ### 283. Card
 
 |Attribut|Value|
@@ -3479,7 +3194,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die Abdrift wird größer, die Krängung nimmt zu.|
 |Wrong Answer 2|Die Abdrift nimmt ab, das Boot wird aufgrund des geringeren Wasserwiderstandes schneller.|
 |Wrong Answer 3|Die Abdrift wird kleiner, die Krängung nimmt ab.|
-
 
 ### 284. Card
 
@@ -3492,7 +3206,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Leicht nach Lee geneigt, da sonst die Segel leicht nach Luv überkommen können.|
 |Wrong Answer 3|Möglichst nach Luv geneigt, weil dadurch die Abdrift und die Luvgierigkeit abnehmen.|
 
-
 ### 285. Card
 
 |Attribut|Value|
@@ -3503,7 +3216,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die Krängung und die Geschwindigkeit nehmen bis zum kritischen Punkt zu, darüber hinaus schnell ab.|
 |Wrong Answer 2|Die Geschwindigkeit nimmt zu, da dadurch die Windkräfte optimaler genutzt werden.|
 |Wrong Answer 3|Das Boot bleibt stehen, da die Strömung abreißt.|
-
 
 ### 286. Card
 
@@ -3516,7 +3228,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Das Vorliek killt, das Unterliek wird übermäßig gereckt.|
 |Wrong Answer 3|Das Vorliek killt, das Achterliek wird übermäßig gereckt.|
 
-
 ### 287. Card
 
 |Attribut|Value|
@@ -3527,7 +3238,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Das Vorliek killt, das Unterliek wird übermäßig gereckt.|
 |Wrong Answer 2|Das Unterliek killt, das Achterliek wird übermäßig gereckt.|
 |Wrong Answer 3|Das Achterliek killt, das Vorliek wird übermäßig gereckt.|
-
 
 ### 288. Card
 
@@ -3540,7 +3250,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Die Schoten müssen gefiert werden.|
 |Wrong Answer 3|Die Schoten müssen dicht geholt werden.|
 
-
 ### 289. Card
 
 |Attribut|Value|
@@ -3551,7 +3260,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Es soll bauchig getrimmt werden.|
 |Wrong Answer 2|Die Schoten müssen dicht geholt werden.|
 |Wrong Answer 3|Die Schoten müssen gefiert werden.|
-
 
 ### 290. Card
 
@@ -3564,7 +3272,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Je nach Zugkraft wird der achtere Teil des Vorsegels bauchiger oder flacher.|
 |Wrong Answer 3|Je nach Zugkraft wird der achtere Teil des Großsegels bauchiger oder flacher.|
 
-
 ### 291. Card
 
 |Attribut|Value|
@@ -3575,7 +3282,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Großsegel flacher trimmen; Gewichtsverlagerung nach vorne.|
 |Wrong Answer 2|Vorsegel flacher trimmen; Gewichtsverlagerung nach achtern.|
 |Wrong Answer 3|Vorsegel flacher trimmen; Gewichtsverlagerung nach vorne.|
-
 
 ### 292. Card
 
@@ -3588,7 +3294,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Großsegel bauchiger trimmen, Gewichtsverlagerung nach hinten.|
 |Wrong Answer 3|Großsegel flacher trimmen, Gewichtsverlagerung nach hinten.|
 
-
 ### 293. Card
 
 |Attribut|Value|
@@ -3600,7 +3305,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Weil es so weniger Höhe läuft.|
 |Wrong Answer 3|Weil es auf Raumschotkurs mehr Geschwindigkeit läuft.|
 
-
 ### 294. Card
 
 |Attribut|Value|
@@ -3611,7 +3315,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Die Leegierigkeit nimmt zu.|
 |Wrong Answer 2|Keinen.|
 |Wrong Answer 3|Bis 45° Krängung nimmt die Luvgierigkeit zu, dann wieder ab.|
-
 
 ### 295. Card
 
@@ -3625,7 +3328,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|1 Halse, 2 Wende, 3 Q-Wende.|
 |Wrong Answer 3|1 Wende, 2 Q-Wende, 3 Halse.|
 
-
 ### 296. Card
 
 |Attribut|Value|
@@ -3636,7 +3338,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Schwert absenken, Ruder aufholen, damit das Boot frei schwojen kann.|
 |Wrong Answer 2|Schwert aufholen, Ruder absenken, damit das Boot frei schwojen kann.|
 |Wrong Answer 3|Schwert und Ruder absenken, damit das Boot frei schwojen kann.|
-
 
 ### 297. Card
 
@@ -3649,7 +3350,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Es kann zum Verlust der Steuerfähigkeit des Fahrzeuges führen.|
 |Wrong Answer 3|Es kann erneut eine Patenthalse folgen, wenn nicht sofort abgefallen wird.|
 
-
 ### 298. Card
 
 |Attribut|Value|
@@ -3660,7 +3360,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 1|Halse.|
 |Wrong Answer 2|Q-Wende.|
 |Wrong Answer 3|Aufschießer.|
-
 
 ### 299. Card
 
@@ -3673,7 +3372,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Einen Aufschießer fahren.|
 |Wrong Answer 3|Eine Halse fahren.|
 
-
 ### 300. Card
 
 |Attribut|Value|
@@ -3685,7 +3383,6 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 2|Durch die Vor- oder die Achterleine.|
 |Wrong Answer 3|Durch die Fockschot oder eine Reffleine.|
 
-
-
 ## Internal Id
+
 87eac9dc-ca01-47e0-beea-4210858f5460
