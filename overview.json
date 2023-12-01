@@ -2,7 +2,8 @@
   "foundLanguages": [
     "de_DE"
   ],
-  "decks": [{
+  "decks": [
+    {
       "name": "SBF-Binnen - Sportbootf\u00fchrerschein Binnen Theorie Fragen",
       "icon": {
         "fontFamily": "MaterialIcons",
