@@ -1,0 +1,61 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: SBF-Binnen Auto-Updater
+
+# on:
+#  push:
+#    if: inside_open_pr
+#  pull_request:
+#    branches: [ "main" ]
+
+on: 
+  workflow_dispatch:
+  schedule:
+    # Daily at 8:20 UTC
+    - cron: '20 21 * * *'
+
+permissions:
+  contents: write
+  pull-requests: write
+  repository-projects: write
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: main
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Commit SBFB Deck
+        id: step1
+        # git diff --stat head^1 -- ./de_DE/categories/freizeit/sbfb/sbfb-deck.md
+        run: |
+          git status
+          git config pull.rebase false
+          git config --global user.name '3DExtended'
+          git config --global user.email '3dextended@users.noreply.github.com'
+          git checkout -B feauture/update-sbfb-deck
+
+          python scripts/sbfb-deck-auto-update.py
+
+          output=$(git status ./de_DE/categories/freizeit/sbfb/sbfb-deck.md) && if [[ "${output}" == *"modified:"* ]] ;then 
+            echo "pushing changes"; 
+            echo "test=hello" >> "$GITHUB_OUTPUT"
+            git commit -am "Automated update for SBFB file";
+            git push --set-upstream origin feauture/update-sbfb-deck;
+            gh pr create -B main -H feauture/update-sbfb-deck --title 'Update SBFB' --body 'Created by Github action'
+          else 
+            echo "found no changes"; 
+          fi;
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
