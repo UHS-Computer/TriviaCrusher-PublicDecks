@@ -3121,6 +3121,571 @@ Stand des Exports ist: Stand: 01. August 2023
 |Wrong Answer 3|Eine Fahrt am Tage mit Radar.|
 
 
+### 254. Card
+
+|Attribut|Value|
+|---|---|
+|Id|83a867d38fb2e011d6df103b4ba550e3|
+|Question|254. Was wird unter einem "Kimmkieler" verstanden?|
+|Correct Answer|Eine Yacht mit zwei Seitenkielen.|
+|Wrong Answer 1|Eine Yacht mit zwei Seitenschwertern.|
+|Wrong Answer 2|Eine Yacht mit einem Kielschwert.|
+|Wrong Answer 3|Eine Yacht mit zwei Kielen hintereinander.|
+
+
+### 255. Card
+
+|Attribut|Value|
+|---|---|
+|Id|2348cb680545e9c02ab9f6488787929b|
+|Question|255. Worin besteht der Vorteil eines Kimmkielers gegenüber anderen Kielbooten?|
+|Correct Answer|Er kann problemlos aufrecht trocken fallen.|
+|Wrong Answer 1|Sein Tiefgang ist größer.|
+|Wrong Answer 2|Die Abdrift ist geringer als bei anderen Kielbooten.|
+|Wrong Answer 3|Der Kiel lässt sich aufholen.|
+
+
+### 256. Card
+
+|Attribut|Value|
+|---|---|
+|Id|b1a0b5eb143887683a5ef67970df752d|
+|Question|256. Was wird unter einer "Kielschwertyacht" verstanden?|
+|Correct Answer|Eine Yacht mit flach gehendem Ballastkiel und zusätzlichem aufholbarem Schwert.|
+|Wrong Answer 1|Eine Yacht mit einem Ballastkiel und einem zusätzlichen Schwert.|
+|Wrong Answer 2|Eine Yacht mit einem aufholbaren Ballastkiel.|
+|Wrong Answer 3|Eine Yacht mit zwei Seitenkielen.|
+
+
+### 257. Card
+
+|Attribut|Value|
+|---|---|
+|Id|59c4cc4d2ab13ea17c26a71c7adb11d4|
+|Question|257. Wodurch wirken die Bodenlenzventile einer Jolle, die unterhalb der Wasserlinie liegen?|
+|Correct Answer|Durch den Sog, der bei Fahrt durchs Wasser entsteht.|
+|Wrong Answer 1|Durch die Schwerkraft fließt das Wasser außenbords.|
+|Wrong Answer 2|Durch die Massenträgheit, die das Boot besitzt.|
+|Wrong Answer 3|Durch das Druckgefälle zwischen Luft- und Wasserdruck.|
+
+
+### 258. Card
+
+|Attribut|Value|
+|---|---|
+|Id|97b91e9db6601b1b8ea1947844cd4a5d|
+|Question|258. Was wird unter "Formstabilität" verstanden?|
+|Correct Answer|Die Fähigkeit eines Schiffes, durch seine Rumpfform der Krängung entgegenzuwirken.|
+|Wrong Answer 1|Die Fähigkeit eines Schiffes, sich nach einer Kenterung wieder von selbst aufzurichten.|
+|Wrong Answer 2|Die Fähigkeit eines Schiffes beim Loslassen der Pinne den Kurs beizubehalten.|
+|Wrong Answer 3|Die Fähigkeit eines Schiffes über Jahre die Rumpfform auch bei starker Beanspruchung beizubehalten.|
+
+
+### 259. Card
+
+|Attribut|Value|
+|---|---|
+|Id|361cb53e6d5b9e7340f0c5d221dfa74e|
+|Question|259. Was wird unter "Gewichtsstabilität" verstanden?|
+|Correct Answer|Die Fähigkeit eines Schiffes, durch seinen tief liegenden Ballast der Krängung entgegenzuwirken.|
+|Wrong Answer 1|Die Möglichkeit durch zusätzlichen Innenballast die Krängung zu verringern.|
+|Wrong Answer 2|Die Möglichkeit durch ein hohes Crewgewicht der Krängung entgegenzuwirken.|
+|Wrong Answer 3|Die Fähigkeit eines Schiffes, durch seine Rumpfform der Krängung entgegenzuwirken.|
+
+
+### 260. Card
+
+|Attribut|Value|
+|---|---|
+|Id|c47b313ba2eea5a5cd213b34120a3308|
+|Question|260. Welche Boote sind vorwiegend "gewichtsstabil"?|
+|Correct Answer|Kielyachten sind vorwiegend "gewichtsstabil".|
+|Wrong Answer 1|Jollen sind vorwiegend "gewichtsstabil".|
+|Wrong Answer 2|Katamarane sind vorwiegend "gewichtsstabil".|
+|Wrong Answer 3|Trimarane sind vorwiegend "gewichtsstabil".|
+
+
+### 261. Card
+
+|Attribut|Value|
+|---|---|
+|Id|2e7a5c2799d6e43c0d5d4171a2cec282|
+|Question|261. Welche Boote sind vorwiegend "formstabil"?|
+|Correct Answer|Jollen sind vorwiegend "formstabil".|
+|Wrong Answer 1|Kielyachten sind vorwiegend "formstabil".|
+|Wrong Answer 2|Kimmkieler sind vorwiegend "formstabil".|
+|Wrong Answer 3|Kielschwertyachten sind vorwiegend "formstabil".|
+
+
+### 262. Card
+
+|Attribut|Value|
+|---|---|
+|Id|6118500d3074fc9f9ac4717277297f97|
+|Question|262. Wodurch kann bei formstabilen Booten bei viel Wind die Stabilität erhöht werden?|
+|Correct Answer|Durch Ausreiten bzw. durch Benutzung der Trapezeinrichtung.|
+|Wrong Answer 1|Durch Verlagerung von Innenballast.|
+|Wrong Answer 2|Durch Umpumpen von Wasserballast.|
+|Wrong Answer 3|Durch Ausfahren von sogenannten Trimmklappen oder eines Zusatzschwertes.|
+
+
+### 263. Card
+
+|Attribut|Value|
+|---|---|
+|Id|6fae1d36c0593da676179250ec24b7de|
+|Question|263. Wie verändert sich das aufrichtende Kraftmoment einer Jolle bei Krängung?|
+|Correct Answer|Es nimmt anfangs zu bis zu einem Maximum, von da wieder ab, bis Auftriebs- und Gewischtsschwerpunkt übereinander liegen, anschließend kentert die Jolle.|
+|Wrong Answer 1|Es nimmt anfangs ab bis zu einem Minimum, von da wieder zu, bis Auftriebs- und Gewichtsschwerpunkt übereinander liegen, anschließend kentert die Jolle.|
+|Wrong Answer 2|Es nimmt anfangs ab und erreicht ein Maximum, wenn Auftriebs- und Gewichtsschwerpunkt übereinander liegen, anschließend kentert die Jolle.|
+|Wrong Answer 3|Es nimmt anfangs ab und erreicht sein Minimum, bis Auftriebs- und Gewichtsschwerpunkt übereinander liegen, anschließend kentert die Jolle.|
+
+
+### 264. Card
+
+|Attribut|Value|
+|---|---|
+|Id|6b1a22fd0aa4ab96a8f5975691f6af5c|
+|Question|264. Wie verändert sich das aufrichtende Kraftmoment einer Kielyacht bei stetig zunehmender Krängung?|
+|Correct Answer|Es nimmt zu und erreicht nach Überschreitung des Maximums seinen kritischen Winkel erst bei über 90°.|
+|Wrong Answer 1|Es nimmt bis zum Erreichen des kritischen Winkels zu, der bei etwa 70° liegt.|
+|Wrong Answer 2|Es nimmt bis zum Erreichen des kritischen Winkels von 90° ab.|
+|Wrong Answer 3|Es nimmt bis 90° Krängung ab und dann stetig zu.|
+
+
+### 265. Card
+
+|Attribut|Value|
+|---|---|
+|Id|ce8a1e331c3a6bdc6938d3146f7159d1|
+|Question|265. Welche Maßnahme ist bei Ruderbruch auf einer Jolle zu treffen?|
+|Correct Answer|Notruder oder Paddel als Ersatz nehmen, Fahrwasser verlassen, sich als manövrierunfähig zu erkennen geben.|
+|Wrong Answer 1|Sofort ankern und einen Notruf absetzen, Signalkörper (blauer Kegel) setzen.|
+|Wrong Answer 2|Rote Flagge kreisförmig schwenken, Schleppleine bereithalten.|
+|Wrong Answer 3|Segel bergen, Motor starten und in Rückwärtsfahrt das Ufer ansteuern.|
+
+
+### 266. Card
+
+|Attribut|Value|
+|---|---|
+|Id|cf4a59f8cc121304f87f8f1d243ad360|
+|Question|266. Wodurch kann eine Pinnensteuerung auch bei Krängung des Bootes sicher erreicht und bedient werden?|
+|Correct Answer|Durch einen Pinnenausleger.|
+|Wrong Answer 1|Durch Verstellen des Travellers.|
+|Wrong Answer 2|Durch das Ausreiten mit Hilfe des Trapezes.|
+|Wrong Answer 3|Durch Ersetzen der Pinne durch ein Rad.|
+
+
+### 267. Card
+
+|Attribut|Value|
+|---|---|
+|Id|af6582c21bff09dbc7943ac44c9d978a|
+|Question|267. Warum sollte Tauwerk an Bord stets ordentlich aufgeschossen werden?|
+|Correct Answer|Damit es im Gebrauchsfall klar liegt.|
+|Wrong Answer 1|Damit es trocknen kann und nicht verrottet.|
+|Wrong Answer 2|Damit die Reißfestigkeit erhalten bleibt.|
+|Wrong Answer 3|Damit es nicht durch UV-Strahlung beschädigt wird.|
+
+
+### 268. Card
+
+|Attribut|Value|
+|---|---|
+|Id|510b378384808b079b142d4c724befff|
+|Question|268. Warum sollten Fallen stets ordentlich aufgeschossen werden?|
+|Correct Answer|Damit sie im Gebrauchsfall schnell und sicher gefiert werden können.|
+|Wrong Answer 1|Damit sie trocknen können und nicht verrotten.|
+|Wrong Answer 2|Damit sie nicht durch UV-Strahlung beschädigt werden.|
+|Wrong Answer 3|Damit sie nicht mit den Schoten verwechselt werden können.|
+
+
+### 269. Card
+
+|Attribut|Value|
+|---|---|
+|Id|2a327e2152de8c2fd1fd0ecc1e582fe6|
+|Question|269. Wie heißen die Ecken eines Segels?|
+|Correct Answer|Kopf, Hals, Schothorn.|
+|Wrong Answer 1|Kopf, Hals, Nock.|
+|Wrong Answer 2|Vorliek, Unterliek, Achterliek.|
+|Wrong Answer 3|Vorstag, Unterwant, Achterstag.|
+
+
+### 270. Card
+
+|Attribut|Value|
+|---|---|
+|Id|9d3477fa6fb0eb61c8b5ad101840e7a0|
+|Question|270. Wie heißen die Kanten eines Segels?|
+|Correct Answer|Vorliek, Unterliek, Achterliek.|
+|Wrong Answer 1|Kopf, Hals, Nock.|
+|Wrong Answer 2|Vorstag, Unterwant, Achterstag.|
+|Wrong Answer 3|Kopf, Hals, Schothorn.|
+
+
+### 271. Card
+
+|Attribut|Value|
+|---|---|
+|Id|e85a38a99a31cbedce143d3c87f0ec82|
+|Question|271. Wozu dienen Segellatten?|
+|Correct Answer|Der Formgebung und Aussteifung des Segels.|
+|Wrong Answer 1|Der Erleichterung des Reffens.|
+|Wrong Answer 2|Der Verhinderung des Killens von Segeln.|
+|Wrong Answer 3|Der Möglichkeit das Segel auch bei Starkwind nutzen zu können.|
+
+
+### 272. Card
+
+|Attribut|Value|
+|---|---|
+|Id|ff6a8cf68ed8e50f2a4485841a52b6bb|
+|Question|272. Weshalb dürfen Segel nicht über einen längeren Zeitraum killen?|
+|Correct Answer|Killen schädigt das Tuch und lässt Nähte aufgehen.|
+|Wrong Answer 1|Killen lässt das Boot bei stärkerem Wind kentern.|
+|Wrong Answer 2|Killen führt zu Verletzungen der Besatzung.|
+|Wrong Answer 3|Killen führt zu Beschädigungen an nebeneinander liegenden Schiffen.|
+
+
+### 273. Card
+
+|Attribut|Value|
+|---|---|
+|Id|b2388feccdecb669668f9d57dee7aaa7|
+|Question|273. Warum müssen auch kleine Schäden an den Segeln sofort repariert werden?|
+|Correct Answer|Weil unter Winddruck daraus schnell große Schäden werden.|
+|Wrong Answer 1|Weil dadurch der Vortrieb des Segels leidet.|
+|Wrong Answer 2|Weil es nur noch bei Flaute eingesetzt werden kann.|
+|Wrong Answer 3|Weil Feuchtigkeit in das Segel eindringen kann.|
+
+
+### 274. Card
+
+|Attribut|Value|
+|---|---|
+|Id|91b63cfe583b2e75a6ec37f49a946cba|
+|Question|274. Woran kann wärend der Fahrt die Richtung des wahren Windes erkannt werden?|
+|Correct Answer|An Flaggen oder anderen Anzeichen an Land.|
+|Wrong Answer 1|An der Zugrichtung von Wolken.|
+|Wrong Answer 2|An der Nationalflagge am Heck.|
+|Wrong Answer 3|An den Trimmfäden im Großsegel.|
+
+
+### 275. Card
+
+|Attribut|Value|
+|---|---|
+|Id|12ae096c45d9e819b6f349d3c5d926f4|
+|Question|275. Welcher Wind wird in Fahrt von Standern bzw. Verklickern angezeigt?|
+|Correct Answer|Der scheinbare Wind.|
+|Wrong Answer 1|Der Fahrtwind.|
+|Wrong Answer 2|Der wahre Wind.|
+|Wrong Answer 3|Die Windrichtung.|
+
+
+### 276. Card
+
+|Attribut|Value|
+|---|---|
+|Id|a72654bd1c27914df73a0c2a81f09634|
+|Question|276. Wann kommen wahrer Wind und scheinbarer Wind auf einem segelnden Boot aus der gleichen Richtung?|
+|Correct Answer|Auf Vorwindkurs.|
+|Wrong Answer 1|Auf Halbwindkurs.|
+|Wrong Answer 2|Auf Amwindkurs.|
+|Wrong Answer 3|Auf Raumschotkurs.|
+
+
+### 277. Card
+
+|Attribut|Value|
+|---|---|
+|Id|5fa4bfbaeb503a482496bdce1644a576|
+|Question|277. Warum ist der scheinbare Wind auf einem Vorwindkurs schwächer als der wahre Wind?|
+|Correct Answer|Der wahre Wind vermindert sich um den entgegenstehenden Fahrtwind.|
+|Wrong Answer 1|Der wahre Wind wird durch den Fahrtwind abgebremst.|
+|Wrong Answer 2|Der scheinbare Wind wird durch den Unterdruck am Segel entlang abgebremst.|
+|Wrong Answer 3|Der scheinbare Wind ist unabhängig von der Windrichtung immer schwächer als der wahre Wind.|
+
+
+### 278. Card
+
+|Attribut|Value|
+|---|---|
+|Id|d926748ee98756a08f8a7bb401e0029b|
+|Question|278. Warum ist der scheinbare Wind auf einem Kurs hoch am Wind stärker als der wahre Wind?|
+|Correct Answer|Da sich auf diesem Kurs der wahre Wind und der Fahrtwind in Richtung und Stärke addieren.|
+|Wrong Answer 1|Da sich auf diesem Kurs eine Düse zwischen Fock- und Großsegel bildet, die den Wind verstärkt.|
+|Wrong Answer 2|Da der wahre Wind beim Amwindkurs stärker ist als bei raumen Kursen.|
+|Wrong Answer 3|Da der scheinbare Wind unabhängig von der Windrichtung immer stärker als der wahre Wind ist.|
+
+
+### 279. Card
+
+|Attribut|Value|
+|---|---|
+|Id|7fe2e2c70842cddafaa9de5e0bb13c68|
+|Question|279. Auf einem Amwindkurs wurde gerefft. Ein entgegenkommendes Boot gleichen Typs segelt ungerefft. Wie lässt sich das erklären?|
+|Correct Answer|Der scheinbare Wind ist auf Amwindkursen stärker, auf Raumschot- und Vorwindkursen schwächer als der wahre Wind.|
+|Wrong Answer 1|Boote sind stabiler, wenn der Wind achterlicher einfällt.|
+|Wrong Answer 2|Der wahre Wind staut sich am Segel bei Raumschotkurs und ist deshalb schwächer.|
+|Wrong Answer 3|Bei Amwindkurs streicht der Wind am tragflächenartig gewölbten Segel entlang und wird dadurch beschleunigt.|
+
+
+### 280. Card
+
+|Attribut|Value|
+|---|---|
+|Id|3fd36234d189fee8dfef12c369feb2f1|
+|Question|280. Warum raumt beim Einfallen einer Bö auf Amwindkurs der scheinbare Wind?|
+|Correct Answer|Da der Fahrtwind zunächst gleich bleibt, der wahre Wind jedoch zunimmt, kommt der daraus resultierende scheinbare Wind raumer.|
+|Wrong Answer 1|Da durch die Koreoliskraft der Wind auch seine Richtung ändert, wenn er stärker wird.|
+|Wrong Answer 2|Da durch den Trimm des Bootes sich der Kurs automatisch ändert, wenn der Wind zunimmt.|
+|Wrong Answer 3|Da die Windrichtung durch die Segelstellung beeinflusst wird, verändert sich auch der scheinbare Wind.|
+
+
+### 281. Card
+
+|Attribut|Value|
+|---|---|
+|Id|2d1e4bc6e0dcd5c188fd8cf00a9dff66|
+|Question|281. Beim Einfallen einer Bö auf Amwindkurs raumt der scheinbare Wind. Welchen Nutzen kann auf der Kreuz daraus gezogen werden?|
+|Correct Answer|Mitluven, um weitere Höhe zu gewinnen.|
+|Wrong Answer 1|Abfallen, um maximale Höhe zu segeln.|
+|Wrong Answer 2|Segel etwas fieren, um die Bö in Krängung umzusetzen.|
+|Wrong Answer 3|Ein Spinnacker kann gesetzt werden.|
+
+
+### 282. Card
+
+|Attribut|Value|
+|---|---|
+|Id|9999869d79561b1167bfca94c0889259|
+|Question|282. Wie sollte das Schwert einer Jolle auf Vorwindkurs gefahren werden und warum?|
+|Correct Answer|Es sollte aufgeholt werden. Dadurch vermindert sich der Reibungswiderstand, aber auch die Gefahr der Kenterung bei einer unfreiwilligen Halse.|
+|Wrong Answer 1|Es sollte gefiert werden. Dadurch wird das Boot stabiler und die Gefahr der Kenterung bei einer unfreiwilligen Halse reduziert.|
+|Wrong Answer 2|Es sollte nie ganz aufgeholt werden, da es sonst bei einer Kenterung zum Aufrichten der Jolle nicht mehr greifbar ist.|
+|Wrong Answer 3|Es sollte bei stärkerem Wind ganz aufgeholt werden, um die Steuerfähigkeit der Jolle zu verbessern.|
+
+
+### 283. Card
+
+|Attribut|Value|
+|---|---|
+|Id|b56f94ac597a45e48a02fe78cc2b5c9a|
+|Question|283. Wie verändern sich Abdrift und Krängung, wenn das Schwert einer Jolle auf einem Amwindkurs etwas aufgeholt wird?|
+|Correct Answer|Die Abdrift wird größer, die Krängung nimmt ab.|
+|Wrong Answer 1|Die Abdrift wird größer, die Krängung nimmt zu.|
+|Wrong Answer 2|Die Abdrift nimmt ab, das Boot wird aufgrund des geringeren Wasserwiderstandes schneller.|
+|Wrong Answer 3|Die Abdrift wird kleiner, die Krängung nimmt ab.|
+
+
+### 284. Card
+
+|Attribut|Value|
+|---|---|
+|Id|8dc038d3279942320b5740539fb110d0|
+|Question|284. Mit welcher Krängung sollte eine Jolle üblicherweise gesegelt werden und weshalb?|
+|Correct Answer|Möglichst aufrecht, da sonst Abdrift und Luvgierigkeit zunehmen.|
+|Wrong Answer 1|Möglichst aufrecht, weil sonst Abdrift und Leegierigkeit zunehmen.|
+|Wrong Answer 2|Leicht nach Lee geneigt, da sonst die Segel leicht nach Luv überkommen können.|
+|Wrong Answer 3|Möglichst nach Luv geneigt, weil dadurch die Abdrift und die Luvgierigkeit abnehmen.|
+
+
+### 285. Card
+
+|Attribut|Value|
+|---|---|
+|Id|202667c8662ca481d2d420207fbd8ee7|
+|Question|285. Wie wirkt sich auf einem Halbwindkurs ein zu dicht geholtes Großsegel auf die Geschwindigkeit des Bootes aus?|
+|Correct Answer|Die Krängung nimmt zu, die Geschwindigkeit nimmt ab.|
+|Wrong Answer 1|Die Krängung und die Geschwindigkeit nehmen bis zum kritischen Punkt zu, darüber hinaus schnell ab.|
+|Wrong Answer 2|Die Geschwindigkeit nimmt zu, da dadurch die Windkräfte optimaler genutzt werden.|
+|Wrong Answer 3|Das Boot bleibt stehen, da die Strömung abreißt.|
+
+
+### 286. Card
+
+|Attribut|Value|
+|---|---|
+|Id|e4a6e2b7a4d8d30e53df366566266d30|
+|Question|286. Wie wirkt sich ein Holepunkt, der zu weit vorne liegt, auf Stand und Beanspruchung des Vorsegels aus?|
+|Correct Answer|Das Unterliek killt, das Achterliek wird übermäßig gereckt.|
+|Wrong Answer 1|Das Achterliek killt, das Vorliek wird übermäßig gereckt.|
+|Wrong Answer 2|Das Vorliek killt, das Unterliek wird übermäßig gereckt.|
+|Wrong Answer 3|Das Vorliek killt, das Achterliek wird übermäßig gereckt.|
+
+
+### 287. Card
+
+|Attribut|Value|
+|---|---|
+|Id|3804ce280bb82ac2ad2bc9c070b7345e|
+|Question|287. Wie wirkt sich ein Holepunkt, der zu weit achtern liegt, auf Stand und Beanspruchung des Vorsegels aus?|
+|Correct Answer|Das Achterliek killt, das Unterliek wird übermäßig gereckt.|
+|Wrong Answer 1|Das Vorliek killt, das Unterliek wird übermäßig gereckt.|
+|Wrong Answer 2|Das Unterliek killt, das Achterliek wird übermäßig gereckt.|
+|Wrong Answer 3|Das Achterliek killt, das Vorliek wird übermäßig gereckt.|
+
+
+### 288. Card
+
+|Attribut|Value|
+|---|---|
+|Id|91e963cf1b940d538b2f1f048397c59b|
+|Question|288. Wie muss ein Segel bei leichtem Wind getrimmt werden?|
+|Correct Answer|Das Segel soll bauchig stehen.|
+|Wrong Answer 1|Das Segel soll flach getrimmt werden.|
+|Wrong Answer 2|Die Schoten müssen gefiert werden.|
+|Wrong Answer 3|Die Schoten müssen dicht geholt werden.|
+
+
+### 289. Card
+
+|Attribut|Value|
+|---|---|
+|Id|3b0f761aa981c4c71cbe5824b42e75e6|
+|Question|289. Wie muss ein Segel bei starkem Wind getrimmt werden?|
+|Correct Answer|Das Segel soll flach getrimmt werden.|
+|Wrong Answer 1|Es soll bauchig getrimmt werden.|
+|Wrong Answer 2|Die Schoten müssen dicht geholt werden.|
+|Wrong Answer 3|Die Schoten müssen gefiert werden.|
+
+
+### 290. Card
+
+|Attribut|Value|
+|---|---|
+|Id|c91bf13125954c01de64e6b6d737df69|
+|Question|290. Wie beeinflusst ein Unterliekstrecker den Trimm des Segels?|
+|Correct Answer|Je nach Zugkraft wird der untere Teil des Großsegels bauchiger oder flacher.|
+|Wrong Answer 1|Je nach Zugkraft wird der untere Teil des Vorsegels bauchiger oder flacher.|
+|Wrong Answer 2|Je nach Zugkraft wird der achtere Teil des Vorsegels bauchiger oder flacher.|
+|Wrong Answer 3|Je nach Zugkraft wird der achtere Teil des Großsegels bauchiger oder flacher.|
+
+
+### 291. Card
+
+|Attribut|Value|
+|---|---|
+|Id|50ed5af4a5dea38e9e7c2feeea4a22a3|
+|Question|291. Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark von der Seite der Segel weggezogen werden. Wie kann der Trimmfehler behoben werden?|
+|Correct Answer|Großsegel flacher trimmen; Gewichtsverlagerung nach achtern.|
+|Wrong Answer 1|Großsegel flacher trimmen; Gewichtsverlagerung nach vorne.|
+|Wrong Answer 2|Vorsegel flacher trimmen; Gewichtsverlagerung nach achtern.|
+|Wrong Answer 3|Vorsegel flacher trimmen; Gewichtsverlagerung nach vorne.|
+
+
+### 292. Card
+
+|Attribut|Value|
+|---|---|
+|Id|46d7823d80b5af8e55eaa4c634f47739|
+|Question|292. Um auf Amwindkursen eine Jolle auf Kurs zu halten, muss die Pinne stets stark zur Seite der Segel hingedrückt werden. Wie kann der Trimmfehler behoben werden?|
+|Correct Answer|Großsegel bauchiger trimmen, Gewichtsverlagerung nach vorn.|
+|Wrong Answer 1|Großsegel flacher trimmen, Gewichtsverlagerung nach vorn.|
+|Wrong Answer 2|Großsegel bauchiger trimmen, Gewichtsverlagerung nach hinten.|
+|Wrong Answer 3|Großsegel flacher trimmen, Gewichtsverlagerung nach hinten.|
+
+
+### 293. Card
+
+|Attribut|Value|
+|---|---|
+|Id|babafafab1a7504f82bb275f79336901|
+|Question|293. Warum soll ein gut getrimmtes Segelboot leicht luvgierig sein?|
+|Correct Answer|Weil es im Notfall von selbst in den Wind schießt.|
+|Wrong Answer 1|Weil es sich so anspruchsvoller steuern lässt.|
+|Wrong Answer 2|Weil es so weniger Höhe läuft.|
+|Wrong Answer 3|Weil es auf Raumschotkurs mehr Geschwindigkeit läuft.|
+
+
+### 294. Card
+
+|Attribut|Value|
+|---|---|
+|Id|9c94907ffa5a57907d13985d7eb2e637|
+|Question|294. Welchen Einfluss hat zunehmende Krängung auf den Trimm des Bootes?|
+|Correct Answer|Die Luvgierigkeit nimmt zu.|
+|Wrong Answer 1|Die Leegierigkeit nimmt zu.|
+|Wrong Answer 2|Keinen.|
+|Wrong Answer 3|Bis 45° Krängung nimmt die Luvgierigkeit zu, dann wieder ab.|
+
+
+### 295. Card
+
+|Attribut|Value|
+|---|---|
+|Id|867789597a9b5328651d4d5895627f90|
+|Question|295. Welche Manöver hat das Boot auf dem eingezeichneten Kurs an den Punkten 1, 2 und 3 gefahren?|
+|Image|![Question Image 74](./images/test74.jpeg)|
+|Correct Answer|1 Wende, 2 Halse, 3 Q-Wende.|
+|Wrong Answer 1|1 Q-Wende, 2 Halse, 3 Wende.|
+|Wrong Answer 2|1 Halse, 2 Wende, 3 Q-Wende.|
+|Wrong Answer 3|1 Wende, 2 Q-Wende, 3 Halse.|
+
+
+### 296. Card
+
+|Attribut|Value|
+|---|---|
+|Id|ec8cef1abc9273d2f43e433feb9347f7|
+|Question|296. Was ist mit Schwert und Ruder einer Jolle zu tun, wenn das Boot an einer Boje liegen gelassen wird?|
+|Correct Answer|Schwert und Ruderblatt aufholen, damit das Boot frei schwojen kann.|
+|Wrong Answer 1|Schwert absenken, Ruder aufholen, damit das Boot frei schwojen kann.|
+|Wrong Answer 2|Schwert aufholen, Ruder absenken, damit das Boot frei schwojen kann.|
+|Wrong Answer 3|Schwert und Ruder absenken, damit das Boot frei schwojen kann.|
+
+
+### 297. Card
+
+|Attribut|Value|
+|---|---|
+|Id|2535bba86043873f90e1b4be3bcbfe8e|
+|Question|297. Warum ist eine Patenthalse gefährlich?|
+|Correct Answer|Es kann zu Verletzungen der Crew, zu Riggschäden und zur Kenterung führen.|
+|Wrong Answer 1|Es kann zur plötzlichen Änderung der Ausweichpflicht kommen.|
+|Wrong Answer 2|Es kann zum Verlust der Steuerfähigkeit des Fahrzeuges führen.|
+|Wrong Answer 3|Es kann erneut eine Patenthalse folgen, wenn nicht sofort abgefallen wird.|
+
+
+### 298. Card
+
+|Attribut|Value|
+|---|---|
+|Id|47efd2158ea503b9844c18941f1fc385|
+|Question|298. Ein Segelboot segelt am Wind, plötzlich bricht das Luvwant. Welches Manöver ist sinnvoll?|
+|Correct Answer|Wende.|
+|Wrong Answer 1|Halse.|
+|Wrong Answer 2|Q-Wende.|
+|Wrong Answer 3|Aufschießer.|
+
+
+### 299. Card
+
+|Attribut|Value|
+|---|---|
+|Id|9039e97afe554c0b5d5a9c6bcbcdd115|
+|Question|299. Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Was ist sofort zu unternehmen?|
+|Correct Answer|Abfallen auf Vorwindkurs.|
+|Wrong Answer 1|Dichtholen und Anluven.|
+|Wrong Answer 2|Einen Aufschießer fahren.|
+|Wrong Answer 3|Eine Halse fahren.|
+
+
+### 300. Card
+
+|Attribut|Value|
+|---|---|
+|Id|572bed5f68bbd5ddc915f2b4f4d9a925|
+|Question|300. Ein Segelboot segelt bei starkem Wind nur unter Großsegel auf Amwindkurs. Plötzlich bricht das Vorstag. Womit kann das gebrochene Vorstag schnell provisorisch ersetzt werden?|
+|Correct Answer|Durch die Fock oder ein Fall.|
+|Wrong Answer 1|Durch die Fockschot oder das Großfall.|
+|Wrong Answer 2|Durch die Vor- oder die Achterleine.|
+|Wrong Answer 3|Durch die Fockschot oder eine Reffleine.|
+
+
 
 ## Internal Id
 87eac9dc-ca01-47e0-beea-4210858f5460
