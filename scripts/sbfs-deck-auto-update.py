@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-from helpers.imageConverters import gif2jpg
 from helpers.icon import Icon
 from helpers.deck import Deck
 import urllib3
@@ -12,20 +11,19 @@ import json
 from PIL import Image
 from PIL import GifImagePlugin
 
+from helpers.imageConverters import gif2jpg
 from helpers.utils import download_image
 
-path_to_tcjson_file = "./de_DE/categories/freizeit/sks/sks-deck.tcjson"
-path_to_md_file = "./de_DE/categories/freizeit/sks/sks-deck.md"
-path_for_images = "./de_DE/categories/freizeit/sks/images"
+path_to_tcjson_file = "./de_DE/categories/freizeit/sbfs/sbfs-deck.tcjson"
+path_to_md_file = "./de_DE/categories/freizeit/sbfs/sbfs-deck.md"
+path_for_images = "./de_DE/categories/freizeit/sbfs/images"
 
-# the deck SKS consists of of 5 parts which are combined into one big deck here!
+# the deck SBFS consists of of 5 parts which are combined into one big deck here!
 urls_to_scan = [
-    "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Navigation/Navigation-node.html",
-    "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Schifffahrtsrecht/Schifffahrtsrecht-node.html",
-    "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Wetterkunde/Wetterkunde-node.html",
-    "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-I/Seemannschaft-I-node.html",
-    "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-SKS/Seemannschaft-II/Seemannschaft-II-node.html",
+    "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Basisfragen/Basisfragen-node.html",
+    "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Spezifische-Fragen-See-node.html",
 ]
+
 
 result = Deck(
     id=uuid.UUID('8f2274f7-889b-4874-aac7-92a6dc0ef16d'),
