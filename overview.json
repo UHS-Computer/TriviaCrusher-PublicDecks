@@ -12,6 +12,7 @@
         "fontPackage": null,
         "matchTextDirection": false
       },
+      "id": "87eac9dc-ca01-47e0-beea-4210858f5460",
       "description": "Dies sind die Lernzettel f\u00fcr den Sportbootf\u00fchrerschein Binnen.\nHierzu wurden die offiziellen Pr\u00fcfungsfragen von <https://www.elwis.de/> in Karteikarten \u00fcbersetzt.\n\n\nStand des Exports ist: Stand: 01. August 2023",
       "path": "./de_DE/categories/freizeit/sbfb/sbfb-deck.tcjson",
       "language": "de_DE",
@@ -26,6 +27,7 @@
         "fontPackage": null,
         "matchTextDirection": false
       },
+      "id": "8f2274f7-889b-4874-aac7-92a6dc0ef16d",
       "description": "Dies sind die Lernzettel f\u00fcr den SKS - Sportk\u00fcstenschifferschein.\nHierzu wurden die offiziellen Pr\u00fcfungsfragen von <https://www.elwis.de/> in Karteikarten \u00fcbersetzt.\n\n\nStand des Exports ist: Stand: 01. Juli 2006",
       "path": "./de_DE/categories/freizeit/sks/sks-deck.tcjson",
       "language": "de_DE",
@@ -40,6 +42,7 @@
         "fontPackage": null,
         "matchTextDirection": false
       },
+      "id": "665e109d-26f5-4c50-a848-ef8ccb4618ff",
       "description": "Dies sind die Lernzettel f\u00fcr den Sportbootf\u00fchrerschein See.\nHierzu wurden die offiziellen Pr\u00fcfungsfragen von <https://www.elwis.de/> in Karteikarten \u00fcbersetzt.\n\n\nStand des Exports ist: Stand: 01. August 2023",
       "path": "./de_DE/categories/freizeit/sbfs/sbfs-deck.tcjson",
       "language": "de_DE",

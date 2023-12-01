@@ -15,6 +15,7 @@ for f in glob.glob('./**/*.tcjson', recursive=True):
             {
                 "name": deck["name"],
                 "icon": deck["icon"],
+                "id": deck["id"],
                 "description": deck["description"],
                 "path": f,
                 "language": f.split("/")[1],
