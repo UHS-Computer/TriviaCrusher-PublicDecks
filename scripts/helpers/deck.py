@@ -99,3 +99,7 @@ class Deck:
     def addOpenQuestion(self, question: str, answer: str, base64EncodedImage: str | None = None) -> None:
         self.cards.append(Card(answers=[
                           answer], question=question, isOpenQuestion=True, base64EncodedImage=base64EncodedImage))
+
+    def addClosedQuestion(self, question: str, answers: [str], base64EncodedImage: str | None = None) -> None:
+        self.cards.append(Card(answers=answers, question=question,
+                          isOpenQuestion=False, base64EncodedImage=base64EncodedImage))
