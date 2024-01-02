@@ -21,6 +21,7 @@ for f in glob.glob('./**/*.tcjson', recursive=True):
                 "path": f,
                 "language": f.split("/")[1],
                 "cardCount": deck["cards"].__len__(),
+                "containsOpenQuestions": any(card["isOpenQuestion"] == True or card["isOpenQuestion"] == "True" or card["isOpenQuestion"] == "true" for card in deck["cards"]),
             })
 
 print(tableEntries)
