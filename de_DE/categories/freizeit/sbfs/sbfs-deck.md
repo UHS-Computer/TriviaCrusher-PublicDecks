@@ -1889,11 +1889,11 @@ Stand des Exports ist: Stand: 01. August 2023
 
 |Attribut|Value|
 |---|---|
-|Id|f4725c5b046d2518270b9ed64ba4e8dd|
+|Id|66029ddd0e03b028dc79e7477725ebde|
 |Question|153. Welche örtlichen Sondervorschriften zusätzlich zur Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und zur Schifffahrtsordnung Emsmündung (EmsSchO) gibt es und was ist darin geregelt?|
-|Correct Answer|Die Bekanntmachungen der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS), die besondere örtliche Regelungen enthalten und Hinweise für die einzelnen Seeschifffahrtsstraßen geben.|
+|Correct Answer|Die Bekanntmachungen der Generaldirektion Wasserstraßen und Schifffahrt (GDWS), die besondere örtliche Regelungen enthalten und Hinweise für die einzelnen Seeschifffahrtsstraßen geben.|
 |Wrong Answer 1|Die Nachrichten für Seefahrer (NfS), herausgegeben vom Bundesamt für Seeschifffahrt und Hydrographie, sowie die Bekanntmachungen für Seefahrer (BfS) der örtlich zuständigen Wasserstraßen- und Schifffahrtsämter, die auf alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks und Untiefen sowie auf die Schifffahrt betreffende Maßnahmen und Ereignisse hinweisen.|
-|Wrong Answer 2|Die Bekanntmachung der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) sowie die nautische Veröffentlichung "Sicherheit auf dem Wasser", herausgegeben durch das Bundesministerium für Digitales und Verkehr (BMDV), mit wichtigen Regeln und Tipps für Wassersportler.|
+|Wrong Answer 2|Die Bekanntmachung der Generaldirektion Wasserstraßen und Schifffahrt (GDWS) sowie die nautische Veröffentlichung "Sicherheit auf dem Wasser", herausgegeben durch das Bundesministerium für Digitales und Verkehr (BMDV), mit wichtigen Regeln und Tipps für Wassersportler.|
 |Wrong Answer 3|Das Seesicherheitsuntersuchungsgesetz sowie die Verordnung über die Sicherung der Seefahrt, die jeweils wichtige Vorschriften über das Verhalten nach einem Zusammenstoß auf den jeweiligen Seeschifffahrtsstraßen enthalten.|
 
 
@@ -2083,12 +2083,12 @@ Stand des Exports ist: Stand: 01. August 2023
 
 |Attribut|Value|
 |---|---|
-|Id|c3d065da6db25913c993ff51e461b203|
+|Id|433253b78e0d1c5bdd7357b54228aca9|
 |Question|169. Wo darf Wasserski gelaufen, Wassermotorrad gefahren oder mit einem Segelsurfbrett gefahren werden?|
-|Correct Answer|Außerhalb des Fahrwassers, wenn es nicht von der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) durch Bekanntmachung verboten ist. Im Fahrwasser auf Abschnitten, die durch die GDWS bekanntgemacht oder durch blaue Tafeln mit dem weißen Symbol eines Wasserskiläufers, eines Wassermotorrades oder eines Segelsurfers bezeichnet sind.|
-|Wrong Answer 1|Außerhalb der Seeschifffahrtsstraße, wenn es nicht von der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) durch Bekanntmachung verboten ist. Innerhalb der Seeschifffahrtsstraße auf Abschnitten, die durch die GDWS bekanntgemacht oder durch blaue Tafeln mit dem weißen Symbol eines Wasserskiläufers, eines Wassermotorrades oder eines Segelsurfers bezeichnet sind.|
+|Correct Answer|Außerhalb des Fahrwassers, wenn es nicht von der Generaldirektion Wasserstraßen und Schifffahrt (GDWS) durch Bekanntmachung verboten ist. Im Fahrwasser auf Abschnitten, die durch die GDWS bekanntgemacht oder durch blaue Tafeln mit dem weißen Symbol eines Wasserskiläufers, eines Wassermotorrades oder eines Segelsurfers bezeichnet sind.|
+|Wrong Answer 1|Außerhalb der Seeschifffahrtsstraße, wenn es nicht von der Generaldirektion Wasserstraßen und Schifffahrt (GDWS) durch Bekanntmachung verboten ist. Innerhalb der Seeschifffahrtsstraße auf Abschnitten, die durch die GDWS bekanntgemacht oder durch blaue Tafeln mit dem weißen Symbol eines Wasserskiläufers, eines Wassermotorrades oder eines Segelsurfers bezeichnet sind.|
 |Wrong Answer 2|Auf der hohen See und auf den mit dieser zusammenhängenden, von Seeschiffen befahrbaren Gewässern, sofern dabei ein Abstand von mindestens 100 m zum Ufer eingehalten wird.|
-|Wrong Answer 3|Im Fahrwasser, wenn es nicht von der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) durch Bekanntmachung verboten ist. Außerhalb des Fahrwassers auf Abschnitten, die durch die GDWS bekanntgemacht oder durch blaue Tafeln mit dem weißen Symbol eines Wasserskiläufers, eines Wassermotorrades oder eines Segelsurfers bezeichnet sind.|
+|Wrong Answer 3|Im Fahrwasser, wenn es nicht von der Generaldirektion Wasserstraßen und Schifffahrt (GDWS) durch Bekanntmachung verboten ist. Außerhalb des Fahrwassers auf Abschnitten, die durch die GDWS bekanntgemacht oder durch blaue Tafeln mit dem weißen Symbol eines Wasserskiläufers, eines Wassermotorrades oder eines Segelsurfers bezeichnet sind.|
 
 
 ### 170. Card
@@ -2107,12 +2107,12 @@ Stand des Exports ist: Stand: 01. August 2023
 
 |Attribut|Value|
 |---|---|
-|Id|22ff060d7c60a88f33749e52f9a74e4c|
+|Id|2f5937e7431ebe0a502ea41c630217d5|
 |Question|171. Wo ist das Ankern verboten?|
 |Correct Answer|Im Fahrwasser, an Engstellen und in unübersichtlichen Krümmungen; im Umkreis von 300 m von schwimmenden Geräten, Wracks und sonstigen Schifffahrtshindernissen, Kabeltonnen und sonstigen Stellen für militärische und zivile Zwecke; vor Hafeneinfahrten, Schleusen, Anlegestellen und Sielen sowie in den Zufahrten des Nord-Ostsee-Kanals; innerhalb von Fähr- und Brückenstrecken; 300 m vor und hinter Ankerverbotszeichen.|
 |Wrong Answer 1|Im Fahrwasser, auf Seeschifffahrtsstraßen, an Engstellen und in unübersichtlichen Krümmungen; im Umkreis von 300 m von schwimmenden Geräten, Wracks und sonstigen Schifffahrtshindernissen, Kabeltonnen und sonstigen Stellen für militärische und zivile Zwecke; vor Hafeneinfahrten, Schleusen, Anlegestellen und Sielen sowie in den Zufahrten des Nord-Ostsee-Kanals; innerhalb von Fähr- und Brückenstrecken; 300 m vor und hinter Ankerverbotszeichen.|
 |Wrong Answer 2|Im Fahrwasser, an Engstellen und in unübersichtlichen Krümmungen; im Umkreis von 300 m von schwimmenden Geräten, Kabeltonnen und sonstigen Stellen für militärische und zivile Zwecke; vor Hafeneinfahrten, Schleusen, Anlegestellen und Sielen sowie in den Zufahrten des Nord-Ostsee-Kanals und in Vogelschutz- und Naturschutzgebieten sowie generell innerhalb von Nationalparks.|
-|Wrong Answer 3|Im Fahrwasser, wenn es durch die Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) bekanntgemacht worden ist. Außerhalb des Fahrwassers auf Abschnitten, die durch die GDWS bekanntgemacht oder durch entsprechende Sichtzeichen bezeichnet sind.|
+|Wrong Answer 3|Im Fahrwasser, wenn es durch die Generaldirektion Wasserstraßen und Schifffahrt (GDWS) bekanntgemacht worden ist. Außerhalb des Fahrwassers auf Abschnitten, die durch die GDWS bekanntgemacht oder durch entsprechende Sichtzeichen bezeichnet sind.|
 
 
 ### 172. Card
@@ -2257,12 +2257,12 @@ Stand des Exports ist: Stand: 01. August 2023
 
 |Attribut|Value|
 |---|---|
-|Id|8e3adb96d375e5ff9e113e8675b19109|
+|Id|ad5bbc0b20108f0550f08201940987f0|
 |Question|183. Woran ist ein militärisches Warngebiet zu erkennen, das wegen Schießübungen für die Schifffahrt gesperrt ist?|
-|Correct Answer|An bestimmten Tag- und Nachtsignalen, die nach der Sperr- und Warngebietsverordnung der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) für militärische Sperr- und Warngebiete an entsprechenden Signalstellen und auf Sicherungsfahrzeugen gezeigt werden.|
-|Wrong Answer 1|An bestimmten Tag- und Nachtsignalen, die nach der Rheinpolizeiverordnung der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) für militärische Sperr- und Warngebiete an entsprechenden Signalstellen am Ufer und auf Sicherungsfahrzeugen gezeigt werden.|
+|Correct Answer|An bestimmten Tag- und Nachtsignalen, die nach der Sperr- und Warngebietsverordnung der Generaldirektion Wasserstraßen und Schifffahrt (GDWS) für militärische Sperr- und Warngebiete an entsprechenden Signalstellen und auf Sicherungsfahrzeugen gezeigt werden.|
+|Wrong Answer 1|An bestimmten Tag- und Nachtsignalen, die nach der Rheinpolizeiverordnung der Generaldirektion Wasserstraßen und Schifffahrt (GDWS) für militärische Sperr- und Warngebiete an entsprechenden Signalstellen am Ufer und auf Sicherungsfahrzeugen gezeigt werden.|
 |Wrong Answer 2|An bestimmten Tag- und Nachtsignalen, die nach der zuständigen Polizeiverordnung des Wasserwirtschaftsamtes für Übungs-, Sperr- und Warngebiete an entsprechenden Signalstellen am Ufer und auf Sicherungsfahrzeugen gezeigt werden.|
-|Wrong Answer 3|An bestimmten Tag- und Nachtsignalen, die nach der Schifffahrtsordnung der Generaldirektion Wasserstraßen- und Schifffahrt (GDWS) für militärische Sperr- und Warngebiete an entsprechenden Signalstellen am Ufer und auf Sicherungsfahrzeugen gezeigt werden.|
+|Wrong Answer 3|An bestimmten Tag- und Nachtsignalen, die nach der Schifffahrtsordnung der Generaldirektion Wasserstraßen und Schifffahrt (GDWS) für militärische Sperr- und Warngebiete an entsprechenden Signalstellen am Ufer und auf Sicherungsfahrzeugen gezeigt werden.|
 
 
 ### 184. Card
